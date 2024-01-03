@@ -1,0 +1,1805 @@
+,COUNTRY,CITY,total_damage
+6,Afghanistan,Kunduz,211.0
+5,Afghanistan,Kabul,60.0
+9,Afghanistan,Zaranj,59.0
+3,Afghanistan,Gardez,27.0
+2,Afghanistan,Charikar,26.0
+0,Afghanistan,Asadabad,6.0
+7,Afghanistan,Maymana,6.0
+8,Afghanistan,Taloqan,5.0
+4,Afghanistan,Gereshk,2.0
+1,Afghanistan,Baraki Barak,0.0
+10,Albania,Bajram Curri,4.0
+12,Albania,Tirana,3.0
+11,Albania,Fier,1.0
+20,Algeria,Lakhdaria,71.0
+16,Algeria,Boufarik,66.0
+15,Algeria,Birkhadem,44.0
+19,Algeria,Khemis Miliana,42.0
+17,Algeria,Dellys,36.0
+13,Algeria,Baraki,25.0
+21,Algeria,Naciria,24.0
+18,Algeria,Hadjout,20.0
+14,Algeria,Berrouaghia,10.0
+23,Algeria,Thenia,2.0
+22,Algeria,Rouiba,1.0
+26,Angola,Luanda,428.0
+25,Angola,Huambo,230.0
+27,Angola,Lucapa,20.0
+28,Angola,Sumbe,6.0
+24,Angola,Cabinda,5.0
+30,Argentina,Buenos Aires,1227.0
+33,Argentina,Formosa,47.0
+34,Argentina,Rosario,41.0
+29,Argentina,Avellaneda,0.0
+31,Argentina,Clorinda,0.0
+32,Argentina,Comodoro Rivadavia,0.0
+35,Argentina,Salta,0.0
+36,Argentina,San Justo,0.0
+37,Argentina,Santa Fe,0.0
+38,Argentina,Trelew,0.0
+39,Armenia,Bagratashen,58.0
+45,Australia,Melbourne,29.0
+47,Australia,Sydney,29.0
+43,Australia,City,27.0
+40,Australia,Brighton,4.0
+41,Australia,Brisbane,1.0
+42,Australia,Canberra,0.0
+44,Australia,Darwin,0.0
+46,Australia,Perth,0.0
+51,Austria,Vienna,143.0
+50,Austria,Linz,7.0
+48,Austria,Graz,1.0
+49,Austria,Klagenfurt,0.0
+52,Bahrain,Manama,20.0
+58,Bangladesh,Dhaka,644.0
+75,Bangladesh,Sylhet,166.0
+61,Bangladesh,Jessore,160.0
+68,Bangladesh,Narayanganj,131.0
+60,Bangladesh,Gazipur,121.0
+63,Bangladesh,Khulna,78.0
+55,Bangladesh,Brahmanbaria,53.0
+69,Bangladesh,Netrakona,53.0
+54,Bangladesh,Bogra,41.0
+72,Bangladesh,Satkhira,37.0
+57,Bangladesh,Chuadanga,22.0
+66,Bangladesh,Naogaon,22.0
+56,Bangladesh,Chittagong,18.0
+76,Bangladesh,Tangail,15.0
+71,Bangladesh,Rajshahi,9.0
+64,Bangladesh,Kushtia,7.0
+53,Bangladesh,Bhola,6.0
+65,Bangladesh,Meherpur,6.0
+67,Bangladesh,Narail,4.0
+62,Bangladesh,Khagrachhari,3.0
+70,Bangladesh,Pabna,3.0
+74,Bangladesh,Sunamganj,3.0
+59,Bangladesh,Faridpur,1.0
+73,Bangladesh,Sherpur,0.0
+77,Barbados,Bridgetown,0.0
+78,Belgium,Brussels,452.0
+80,Belgium,Marche-en-Famenne,8.0
+79,Belgium,Charleroi,2.0
+81,Belgium,Ostend,1.0
+82,Belize,Belmopan,0.0
+83,Benin,Cotonou,3.0
+88,Bolivia,Oruro,62.0
+86,Bolivia,La Paz,37.0
+84,Bolivia,Caranavi,0.0
+85,Bolivia,Cochabamba,0.0
+87,Bolivia,Mizque,0.0
+89,Bolivia,Sucre,0.0
+90,Bolivia,Tarija,0.0
+107,Bosnia and Herzegovina,Sarajevo,337.0
+100,Bosnia and Herzegovina,Mostar,37.0
+112,Bosnia and Herzegovina,Vitez,6.0
+97,Bosnia and Herzegovina,Jajce,4.0
+92,Bosnia and Herzegovina,Bijeljina,2.0
+109,Bosnia and Herzegovina,Travnik,2.0
+113,Bosnia and Herzegovina,Zenica,2.0
+96,Bosnia and Herzegovina,Jablanica,1.0
+91,Bosnia and Herzegovina,Banja Luka,0.0
+93,Bosnia and Herzegovina,Bugojno,0.0
+94,Bosnia and Herzegovina,Doboj,0.0
+95,Bosnia and Herzegovina,Donja Mahala,0.0
+98,Bosnia and Herzegovina,Janja,0.0
+99,Bosnia and Herzegovina,Kakanj,0.0
+101,Bosnia and Herzegovina,Novi Grad,0.0
+102,Bosnia and Herzegovina,Novi Travnik,0.0
+103,Bosnia and Herzegovina,Pale,0.0
+104,Bosnia and Herzegovina,Polje,0.0
+105,Bosnia and Herzegovina,Prijedor,0.0
+106,Bosnia and Herzegovina,Prozor,0.0
+108,Bosnia and Herzegovina,Stolac,0.0
+110,Bosnia and Herzegovina,Trebinje,0.0
+111,Bosnia and Herzegovina,Tuzla,0.0
+114,Bosnia and Herzegovina,Zvornik,0.0
+115,Botswana,Gaborone,1.0
+121,Brazil,Rio de Janeiro,36.0
+124,Brazil,São Paulo,8.0
+119,Brazil,Porto Alegre,2.0
+116,Brazil,Altamira,1.0
+122,Brazil,Salvador,1.0
+117,Brazil,Fortaleza,0.0
+118,Brazil,Nova Tebas,0.0
+120,Brazil,Recife,0.0
+123,Brazil,Santos,0.0
+125,Bulgaria,Burgas,37.0
+128,Bulgaria,Pleven,1.0
+126,Bulgaria,Montana,0.0
+127,Bulgaria,Pernik,0.0
+129,Bulgaria,Plovdiv,0.0
+130,Bulgaria,Sofia,0.0
+131,Bulgaria,Svilengrad,0.0
+132,Burkina Faso,Ouagadougou,242.0
+133,Burundi,Bujumbura,18.0
+134,Burundi,Rutana,14.0
+136,Cambodia,Siem Reap,1.0
+135,Cambodia,Pursat,0.0
+137,Cameroon,Kumbo,1.0
+140,Canada,Montréal,366.0
+142,Canada,Toronto,13.0
+141,Canada,Ottawa,5.0
+138,Canada,Campbell River,1.0
+143,Canada,Vancouver,1.0
+139,Canada,Guelph,0.0
+144,Chad,Mao,0.0
+154,Chile,Santiago,88.0
+147,Chile,O'Higgins,12.0
+148,Chile,Osorno,1.0
+150,Chile,Puerto Montt,1.0
+156,Chile,Talcahuano,1.0
+145,Chile,Arica,0.0
+146,Chile,Florida,0.0
+149,Chile,Providencia,0.0
+151,Chile,Punta Arenas,0.0
+152,Chile,Quilicura,0.0
+153,Chile,Rancagua,0.0
+155,Chile,Talca,0.0
+157,Chile,Temuco,0.0
+158,Chile,Valdivia,0.0
+159,China,Chengdu,51.0
+164,China,Wuhan,50.0
+162,China,Kashgar,32.0
+160,China,Hotan,17.0
+163,China,Shenzhen,4.0
+166,China,Yinchuan,4.0
+161,China,Kangding,0.0
+165,China,Xiamen,0.0
+189,Colombia,Bogota,2051.0
+262,Colombia,Medellín,486.0
+199,Colombia,Cali,226.0
+230,Colombia,Florencia,171.0
+190,Colombia,Bojaya,130.0
+192,Colombia,Buenaventura,126.0
+325,Colombia,Soacha,126.0
+347,Colombia,Villavicencio,97.0
+272,Colombia,Neiva,94.0
+338,Colombia,Trujillo,80.0
+246,Colombia,Ituango,73.0
+185,Colombia,Barrancabermeja,56.0
+264,Colombia,Miraflores,45.0
+333,Colombia,Tierralta,32.0
+261,Colombia,Marinilla,30.0
+334,Colombia,Toledo,30.0
+210,Colombia,Chita,28.0
+212,Colombia,Cimitarra,28.0
+313,Colombia,San Rafael,28.0
+194,Colombia,Cachipay,23.0
+321,Colombia,Saravena,21.0
+314,Colombia,San Vicente,20.0
+204,Colombia,Cartagena,19.0
+265,Colombia,Miranda,19.0
+225,Colombia,El Paujil,18.0
+237,Colombia,Guapi,18.0
+288,Colombia,Puerto Rico,18.0
+186,Colombia,Barranquilla,16.0
+302,Colombia,San Carlos,16.0
+328,Colombia,Soledad,16.0
+229,Colombia,Falan,15.0
+296,Colombia,Rivera,14.0
+311,Colombia,San Pablo,14.0
+179,Colombia,Arauquita,13.0
+267,Colombia,Montebello,12.0
+300,Colombia,Samaniego,12.0
+222,Colombia,El Castillo,11.0
+245,Colombia,Itagui,11.0
+322,Colombia,Sardinata,11.0
+323,Colombia,Segovia,11.0
+195,Colombia,Caicedo,10.0
+248,Colombia,La Dorada,10.0
+292,Colombia,Ricaurte,10.0
+330,Colombia,Tame,10.0
+200,Colombia,Caloto,9.0
+220,Colombia,El Bagre,9.0
+281,Colombia,Pereira,9.0
+312,Colombia,San Pedro,9.0
+217,Colombia,Dolores,8.0
+228,Colombia,Envigado,8.0
+242,Colombia,Hobo,8.0
+273,Colombia,Orito,8.0
+274,Colombia,Ortega,8.0
+295,Colombia,Riosucio,8.0
+310,Colombia,San Miguel,8.0
+315,Colombia,Santa Marta,8.0
+348,Colombia,Yarumal,8.0
+308,Colombia,San Lorenzo,7.0
+345,Colombia,Valledupar,7.0
+202,Colombia,Campoalegre,6.0
+280,Colombia,Pasto,6.0
+349,Colombia,Yopal,6.0
+209,Colombia,Chaparral,5.0
+227,Colombia,El Tarra,5.0
+293,Colombia,Riohacha,5.0
+309,Colombia,San Luis,5.0
+336,Colombia,Toribio,5.0
+197,Colombia,Calamar,4.0
+211,Colombia,Chivor,4.0
+252,Colombia,La Vega,4.0
+263,Colombia,Mercaderes,4.0
+180,Colombia,Arboleda,3.0
+182,Colombia,Armenia,3.0
+188,Colombia,Berbeo,3.0
+196,Colombia,Cajamarca,3.0
+218,Colombia,Dosquebradas,3.0
+232,Colombia,Fortul,3.0
+234,Colombia,Granada,3.0
+243,Colombia,Ipiales,3.0
+254,Colombia,Linares,3.0
+256,Colombia,Maicao,3.0
+259,Colombia,Manizales,3.0
+301,Colombia,San Antonio,3.0
+306,Colombia,San Juan de Arama,3.0
+326,Colombia,Sogamoso,3.0
+170,Colombia,Aguadas,2.0
+203,Colombia,Carmen de Viboral,2.0
+207,Colombia,Cerro San Antonio,2.0
+208,Colombia,Chameza,2.0
+233,Colombia,Gigante,2.0
+247,Colombia,La Cumbre,2.0
+271,Colombia,Natagaima,2.0
+285,Colombia,Pradera,2.0
+286,Colombia,Pueblo Nuevo,2.0
+339,Colombia,Tumaco,2.0
+343,Colombia,Valdivia,2.0
+172,Colombia,Algeciras,1.0
+173,Colombia,Almaguer,1.0
+176,Colombia,Andes,1.0
+178,Colombia,Aracataca,1.0
+184,Colombia,Baraya,1.0
+187,Colombia,Bello,1.0
+201,Colombia,Campo de la Cruz,1.0
+205,Colombia,Cartago,1.0
+213,Colombia,Corinto,1.0
+219,Colombia,Duitama,1.0
+221,Colombia,El Carmen,1.0
+226,Colombia,El Tambo,1.0
+231,Colombia,Florida,1.0
+236,Colombia,Guamo,1.0
+240,Colombia,Hato,1.0
+249,Colombia,La Macarena,1.0
+257,Colombia,Malambo,1.0
+269,Colombia,Morales,1.0
+270,Colombia,Murillo,1.0
+275,Colombia,Ovejas,1.0
+278,Colombia,Palermo,1.0
+282,Colombia,Pijao,1.0
+283,Colombia,Pitalito,1.0
+289,Colombia,Puerto Triunfo,1.0
+297,Colombia,Sabana de Torres,1.0
+299,Colombia,Salamina,1.0
+304,Colombia,San Francisco,1.0
+305,Colombia,San Jacinto,1.0
+316,Colombia,Santa Rosa,1.0
+320,Colombia,Santo Domingo,1.0
+329,Colombia,Sonson,1.0
+332,Colombia,Tibacuy,1.0
+337,Colombia,Tres Esquinas,1.0
+340,Colombia,Turbaco,1.0
+341,Colombia,Turbo,1.0
+167,Colombia,Abejorral,0.0
+168,Colombia,Abrego,0.0
+169,Colombia,Aguachica,0.0
+171,Colombia,Aipe,0.0
+174,Colombia,Alpujarra,0.0
+175,Colombia,Amalfi,0.0
+177,Colombia,Anserma,0.0
+181,Colombia,Argelia,0.0
+183,Colombia,Atrato,0.0
+191,Colombia,Bucaramanga,0.0
+193,Colombia,Buenavista,0.0
+198,Colombia,Caldono,0.0
+206,Colombia,Caruru,0.0
+214,Colombia,Coyaima,0.0
+215,Colombia,Cunday,0.0
+216,Colombia,Dagua,0.0
+223,Colombia,El Doncello,0.0
+224,Colombia,El Molino,0.0
+235,Colombia,Guaduas,0.0
+238,Colombia,Guateque,0.0
+239,Colombia,Guayabal,0.0
+241,Colombia,Hispania,0.0
+244,Colombia,Isnos,0.0
+250,Colombia,La Sierra,0.0
+251,Colombia,La Tebaida,0.0
+253,Colombia,Labranzagrande,0.0
+255,Colombia,Los Palmitos,0.0
+258,Colombia,Manaure,0.0
+260,Colombia,Margarita,0.0
+266,Colombia,Mocoa,0.0
+268,Colombia,Montecristo,0.0
+276,Colombia,Paez,0.0
+277,Colombia,Pailitas,0.0
+279,Colombia,Pamplona,0.0
+284,Colombia,Plato,0.0
+287,Colombia,Puerto Libertador,0.0
+290,Colombia,Restrepo,0.0
+291,Colombia,Retiro,0.0
+294,Colombia,Rionegro,0.0
+298,Colombia,Sabanalarga,0.0
+303,Colombia,San Diego,0.0
+307,Colombia,San Juan del Cesar,0.0
+317,Colombia,Santa Rosa del Sur,0.0
+318,Colombia,Santander de Quilichao,0.0
+319,Colombia,Santiago,0.0
+324,Colombia,Silvia,0.0
+327,Colombia,Solano,0.0
+331,Colombia,Tangua,0.0
+335,Colombia,Tona,0.0
+342,Colombia,Urumita,0.0
+344,Colombia,Valle de San Juan,0.0
+346,Colombia,Villanueva,0.0
+350,Costa Rica,Heredia,1.0
+351,Cote D'Ivoire (Ivory Coast),Grand-Bassam,52.0
+358,Croatia,Rijeka,30.0
+356,Croatia,Petrinja,5.0
+360,Croatia,Vinkovci,2.0
+357,Croatia,Pula,1.0
+352,Croatia,Bibinje,0.0
+353,Croatia,Kutina,0.0
+354,Croatia,Makarska,0.0
+355,Croatia,Orahovica,0.0
+359,Croatia,Slavonski Brod,0.0
+361,Croatia,Zadar,0.0
+362,Cuba,Havana,5.0
+363,Cuba,Varadero,0.0
+366,Cyprus,Nicosia,39.0
+365,Cyprus,Limassol,11.0
+364,Cyprus,Larnaca,0.0
+367,Czech Republic,Ostrava,4.0
+368,Czech Republic,Prague,1.0
+369,Denmark,Copenhagen,40.0
+370,Denmark,Greve,0.0
+372,Dominican Republic,Santo Domingo,3.0
+371,Dominican Republic,Mella,0.0
+373,East Timor,Dili,2.0
+374,East Timor,Viqueque,2.0
+380,Ecuador,Quito,14.0
+377,Ecuador,Guayaquil,5.0
+379,Ecuador,Portoviejo,3.0
+375,Ecuador,Ambato,0.0
+376,Ecuador,Cuenca,0.0
+378,Ecuador,Loja,0.0
+384,Egypt,Cairo,440.0
+390,Egypt,Sharm el-Sheikh,206.0
+381,Egypt,Alexandria,159.0
+388,Egypt,Luxor,108.0
+385,Egypt,Dahab,106.0
+382,Egypt,Arish,15.0
+387,Egypt,Hurghada,13.0
+383,Egypt,Aswan,9.0
+386,Egypt,Giza,3.0
+389,Egypt,Port Said,3.0
+394,El Salvador,San Salvador,115.0
+393,El Salvador,San Miguel,6.0
+391,El Salvador,Chalchuapa,1.0
+392,El Salvador,San Marcos,0.0
+395,El Salvador,Suchitoto,0.0
+397,Eritrea,Barentu,53.0
+398,Eritrea,Teseney,15.0
+396,Eritrea,Asmara,2.0
+399,Estonia,Tallinn,4.0
+402,Ethiopia,Jijiga,83.0
+401,Ethiopia,Bishoftu,4.0
+400,Ethiopia,Axum,0.0
+403,Ethiopia,Korem,0.0
+404,Fiji Islands,Lautoka,0.0
+405,Finland,Turku,10.0
+478,France,Paris,2211.0
+475,France,Nice,561.0
+466,France,Marseille,89.0
+464,France,Lyon,46.0
+429,France,Borgo,29.0
+408,France,Ajaccio,23.0
+434,France,Carcassonne,19.0
+433,France,Cannes,18.0
+494,France,Strasbourg,18.0
+410,France,Alfortville,13.0
+423,France,Bayonne,13.0
+452,France,Hendaye,13.0
+420,France,Barr,9.0
+488,France,Saint-Jean-de-Luz,9.0
+446,France,Ghisonaccia,7.0
+496,France,Toulouse,7.0
+421,France,Bastia,5.0
+425,France,Biarritz,4.0
+442,France,Corte,3.0
+504,France,Villejuif,3.0
+413,France,Anglet,2.0
+479,France,Pau,2.0
+407,France,Aix-en-Provence,1.0
+422,France,Baule,1.0
+427,France,Bonifacio,1.0
+430,France,Callac,1.0
+431,France,Calvi,1.0
+441,France,Conflans-Sainte-Honorine,1.0
+443,France,Dinan,1.0
+485,France,Rennes,1.0
+490,France,Sare,1.0
+502,France,Versailles,1.0
+406,France,Afa,0.0
+409,France,Albitreccia,0.0
+411,France,Amiens,0.0
+412,France,Angers,0.0
+414,France,Annecy,0.0
+415,France,Arles,0.0
+416,France,Ascain,0.0
+417,France,Aubagne,0.0
+418,France,Auch,0.0
+419,France,Avignon,0.0
+424,France,Belfort,0.0
+426,France,Biguglia,0.0
+428,France,Bordeaux,0.0
+432,France,Cambo-les-Bains,0.0
+435,France,Cauro,0.0
+436,France,Cervione,0.0
+437,France,Ciboure,0.0
+438,France,Cintegabelle,0.0
+439,France,Clermont-Ferrand,0.0
+440,France,Clichy,0.0
+444,France,Espelette,0.0
+445,France,Furiani,0.0
+447,France,Gironde,0.0
+448,France,Gouarec,0.0
+449,France,Guichen,0.0
+450,France,Hasparren,0.0
+451,France,Haute-Savoie,0.0
+453,France,Itxassou,0.0
+454,France,La Ciotat,0.0
+455,France,La Seyne-sur-Mer,0.0
+456,France,Larressore,0.0
+457,France,Le Mans,0.0
+458,France,Levallois-Perret,0.0
+459,France,Lille,0.0
+460,France,Linguizzetta,0.0
+461,France,Lourdes,0.0
+462,France,Lucciana,0.0
+463,France,Lumio,0.0
+465,France,Manche,0.0
+467,France,Massy,0.0
+468,France,Matignon,0.0
+469,France,Mayenne,0.0
+470,France,Montpellier,0.0
+471,France,Morlaix,0.0
+472,France,Nanterre,0.0
+473,France,Nantes,0.0
+474,France,Narbonne,0.0
+476,France,Olmeto,0.0
+477,France,Paimpol,0.0
+480,France,Perpignan,0.0
+481,France,Pietrosella,0.0
+482,France,Pontorson,0.0
+483,France,Porto-Vecchio,0.0
+484,France,Propriano,0.0
+486,France,Saint-Florent,0.0
+487,France,Saint-Jean-Pied-de-Port,0.0
+489,France,Saint-Palais,0.0
+491,France,Sari-Solenzara,0.0
+492,France,Sergy,0.0
+493,France,Sisco,0.0
+495,France,Toulon,0.0
+497,France,Urrugne,0.0
+498,France,Ustaritz,0.0
+499,France,Vallauris,0.0
+500,France,Varennes-sur-Allier,0.0
+501,France,Ventiseri,0.0
+503,France,Vescovato,0.0
+505,France,Zonza,0.0
+506,Gabon,Libreville,2.0
+510,Georgia,Zugdidi,64.0
+508,Georgia,Gori,29.0
+507,Georgia,Gali,6.0
+509,Georgia,Kutaisi,0.0
+552,Germany,Munich,431.0
+516,Germany,Berlin,113.0
+529,Germany,Frankfurt am Main,77.0
+561,Germany,Saarlouis,20.0
+525,Germany,Eppstein,19.0
+563,Germany,Solingen,19.0
+531,Germany,Hamburg,14.0
+512,Germany,Ansbach,12.0
+524,Germany,Duisburg,9.0
+540,Germany,Karlsruhe,9.0
+518,Germany,Bonn,7.0
+565,Germany,Ulm,6.0
+533,Germany,Heidelberg,5.0
+546,Germany,Landsberg,4.0
+523,Germany,Dresden,3.0
+544,Germany,Konstanz,3.0
+559,Germany,Pulheim,3.0
+527,Germany,Erlangen,2.0
+535,Germany,Hemsbach,2.0
+568,Germany,Wittenberge,2.0
+517,Germany,Bielefeld,1.0
+520,Germany,Darmstadt,1.0
+522,Germany,Dortmund,1.0
+536,Germany,Homburg,1.0
+538,Germany,Kaiserslautern,1.0
+541,Germany,Kassel,1.0
+550,Germany,Mannheim,1.0
+557,Germany,Oberursel,1.0
+566,Germany,Unna,1.0
+511,Germany,Ahlen,0.0
+513,Germany,Bad Hersfeld,0.0
+514,Germany,Bad Oldesloe,0.0
+515,Germany,Bergen,0.0
+519,Germany,Cham,0.0
+521,Germany,Ditzingen,0.0
+526,Germany,Erbendorf,0.0
+528,Germany,Eschborn,0.0
+530,Germany,Freiburg,0.0
+532,Germany,Hamm,0.0
+534,Germany,Heilbronn,0.0
+537,Germany,Hude,0.0
+539,Germany,Kaltenkirchen,0.0
+542,Germany,Kiel,0.0
+543,Germany,Koblenz,0.0
+545,Germany,Lage,0.0
+547,Germany,Leipzig,0.0
+548,Germany,Leverkusen,0.0
+549,Germany,Mainz,0.0
+551,Germany,Minden,0.0
+553,Germany,Neustadt,0.0
+554,Germany,Nohfelden,0.0
+555,Germany,Oberammergau,0.0
+556,Germany,Oberhausen,0.0
+558,Germany,Offenbach,0.0
+560,Germany,Rostock,0.0
+562,Germany,Sindelfingen,0.0
+564,Germany,Stuttgart,0.0
+567,Germany,Wiesbaden,0.0
+569,Greece,Athens,384.0
+570,Greece,Piraeus,226.0
+571,Guatemala,Guatemala City,91.0
+573,Guatemala,Quetzaltenango,2.0
+572,Guatemala,Huehuetenango,1.0
+574,Guyana,Georgetown,9.0
+575,Haiti,Port-au-Prince,5.0
+579,Honduras,Tegucigalpa,34.0
+577,Honduras,La Ceiba,7.0
+578,Honduras,San Pedro Sula,6.0
+576,Honduras,Choluteca,1.0
+679,India,Mumbai,3317.0
+713,India,Srinagar,876.0
+637,India,Guwahati,841.0
+600,India,Bongaigaon,557.0
+646,India,Jammu,433.0
+697,India,Pulwama,303.0
+607,India,Coimbatore,265.0
+610,India,Delhi,241.0
+641,India,Hyderabad,234.0
+587,India,Anantnag,223.0
+643,India,Jaipur,210.0
+583,India,Ahmedabad,207.0
+673,India,Malegaon,199.0
+622,India,Doda,192.0
+687,India,New Delhi,183.0
+649,India,Jaunpur,112.0
+581,India,Agartala,111.0
+642,India,Imphal,98.0
+597,India,Bijapur,76.0
+692,India,Patna,71.0
+651,India,Kamrup,69.0
+667,India,Kulgam,68.0
+652,India,Kancheepuram,60.0
+619,India,Dimapur,50.0
+722,India,Udhampur,50.0
+659,India,Katra,49.0
+724,India,Uri,49.0
+603,India,Chamba,46.0
+684,India,Nalbari,43.0
+664,India,Kokrajhar,38.0
+625,India,Gadchiroli,36.0
+601,India,Cachar,35.0
+656,India,Karbi Anglong,35.0
+596,India,Bhatinda,31.0
+616,India,Dhubri,28.0
+623,India,Doraha,28.0
+691,India,Pathankot,28.0
+592,India,Banihal,27.0
+614,India,Dhemaji,25.0
+689,India,Parbhani,25.0
+627,India,Gandarbal,24.0
+632,India,Giridih,24.0
+654,India,Kanker,23.0
+685,India,Nalgonda,23.0
+605,India,Chennai,22.0
+658,India,Karimnagar,22.0
+599,India,Bokaro,19.0
+698,India,Punch,19.0
+621,India,Dispur,18.0
+639,India,Hiranagar,17.0
+703,India,Rajpur,17.0
+594,India,Bastar,16.0
+629,India,Gauripur,15.0
+631,India,Ghaziabad,15.0
+593,India,Barpeta,13.0
+668,India,Kupwara,13.0
+705,India,Rampur,13.0
+582,India,Agra,12.0
+589,India,Ayodhya,12.0
+612,India,Dhanbad,12.0
+628,India,Ganderbal,12.0
+672,India,Magam,12.0
+721,India,Udalguri,12.0
+728,India,Warangal,12.0
+711,India,Sonari,11.0
+617,India,Dibrugarh,10.0
+636,India,Guntur,10.0
+677,India,Moradabad,10.0
+696,India,Prakasam,10.0
+630,India,Gaya,9.0
+638,India,Hazaribagh,9.0
+688,India,Panipat,9.0
+714,India,Sundargarh,9.0
+618,India,Digboi,8.0
+693,India,Pattan,8.0
+709,India,Sibsagar,8.0
+710,India,Simdega,8.0
+598,India,Bishnupur,7.0
+604,India,Chatra,7.0
+674,India,Malkangiri,7.0
+700,India,Purna,7.0
+719,India,Tral,7.0
+727,India,Visakhapatnam,7.0
+609,India,Darrang,6.0
+611,India,Dhalai,6.0
+661,India,Khammam,6.0
+701,India,Purulia,6.0
+723,India,Ukhrul,6.0
+588,India,Aurangabad,5.0
+644,India,Jalna,5.0
+645,India,Jalpaiguri,5.0
+690,India,Patan,5.0
+706,India,Ranchi,5.0
+716,India,Thane,5.0
+647,India,Jamshedpur,4.0
+655,India,Kanpur,4.0
+663,India,Kohima,4.0
+715,India,Tamenglong,4.0
+730,India,West Tripura,4.0
+584,India,Amarpur,3.0
+606,India,Churachandpur,3.0
+608,India,Cuddapah,3.0
+615,India,Dhenkanal,3.0
+633,India,Goalpara,3.0
+635,India,Gumla,3.0
+640,India,Howrah,3.0
+653,India,Kandi,3.0
+704,India,Ramban,3.0
+707,India,Sankarpur,3.0
+708,India,Senapati,3.0
+586,India,Anantapur,2.0
+590,India,Badgam,2.0
+602,India,Chakulia,2.0
+613,India,Dhar,2.0
+620,India,Diphu,2.0
+665,India,Kolkata,2.0
+681,India,Muzaffarnagar,2.0
+718,India,Tirumala,2.0
+580,India,Adilabad,1.0
+585,India,Amritsar,1.0
+591,India,Bandipore,1.0
+626,India,Gajapati,1.0
+634,India,Golaghat,1.0
+648,India,Jangaon,1.0
+650,India,Jorhat,1.0
+662,India,Khowai,1.0
+666,India,Kozhikode,1.0
+671,India,Lucknow,1.0
+675,India,Mandi,1.0
+676,India,Modasa,1.0
+682,India,Nagar,1.0
+694,India,Peren,1.0
+699,India,Pune,1.0
+702,India,Qazigund,1.0
+712,India,Srikakulam,1.0
+720,India,Udaipur,1.0
+726,India,Virar,1.0
+595,India,Bharatpur,0.0
+624,India,Fatehpur,0.0
+657,India,Karimganj,0.0
+660,India,Khagaria,0.0
+669,India,Kurnool,0.0
+670,India,Latehar,0.0
+678,India,Morigaon,0.0
+680,India,Munger,0.0
+683,India,Nagpur,0.0
+686,India,Nashik,0.0
+695,India,Phek,0.0
+717,India,Thoubal,0.0
+725,India,Vadodara,0.0
+729,India,West Garo Hills,0.0
+741,Indonesia,Jakarta,2554.0
+757,Indonesia,Ternate,2002.0
+731,Indonesia,Ambon,233.0
+754,Indonesia,Sidoarjo,72.0
+749,Indonesia,Palu,63.0
+733,Indonesia,Banda Aceh,62.0
+747,Indonesia,Medan,48.0
+745,Indonesia,Makassar,25.0
+751,Indonesia,Poso,16.0
+740,Indonesia,Depok,10.0
+734,Indonesia,Bandar,9.0
+750,Indonesia,Pekanbaru,8.0
+748,Indonesia,Palopo,7.0
+752,Indonesia,Samarinda,5.0
+743,Indonesia,Lhokseumawe,3.0
+753,Indonesia,Semarang,3.0
+735,Indonesia,Bandung,2.0
+755,Indonesia,Surabaya,2.0
+756,Indonesia,Tangerang,2.0
+736,Indonesia,Barabai,1.0
+732,Indonesia,Balikpapan,0.0
+737,Indonesia,Batu,0.0
+738,Indonesia,Blitar,0.0
+739,Indonesia,Bogor,0.0
+742,Indonesia,Jayapura,0.0
+744,Indonesia,Magelang,0.0
+746,Indonesia,Manado,0.0
+758,Indonesia,Yogyakarta,0.0
+759,Iran,Abadan,403.0
+760,Iran,Ahvaz,248.0
+773,Iran,Tehran,216.0
+761,Iran,Chabahar,50.0
+774,Iran,Zahedan,38.0
+765,Iran,Kermanshah,6.0
+769,Iran,Sardasht,6.0
+762,Iran,Isfahan,3.0
+767,Iran,Mashhad,3.0
+766,Iran,Khorramshahr,2.0
+763,Iran,Karaj,1.0
+764,Iran,Kerman,1.0
+768,Iran,Qom,0.0
+770,Iran,Semnan,0.0
+771,Iran,Shiraz,0.0
+772,Iran,Tabriz,0.0
+776,Iraq,Baghdad,21283.0
+779,Iraq,Kirkuk,3418.0
+781,Iraq,Mosul,2916.0
+785,Iraq,Sinjar,2170.0
+778,Iraq,Karbala,1401.0
+777,Iraq,Balad,1339.0
+784,Iraq,Ramadi,949.0
+782,Iraq,Najaf,864.0
+775,Iraq,Arbil,360.0
+780,Iraq,Kufa,322.0
+783,Iraq,Nasiriyah,259.0
+786,Ireland,Dublin,359.0
+787,Ireland,Dundalk,31.0
+790,Ireland,Sligo,4.0
+788,Ireland,Limerick,2.0
+789,Ireland,Monaghan,0.0
+804,Israel,Jerusalem,3376.0
+814,Israel,Tel Aviv,2098.0
+807,Israel,Netanya,560.0
+801,Israel,Haifa,424.0
+800,Israel,Hadera,310.0
+792,Israel,Afula,190.0
+796,Israel,Beersheba,135.0
+813,Israel,Sederot,114.0
+805,Israel,Lod,110.0
+812,Israel,Safed,50.0
+811,Israel,Qiryat Shemona,46.0
+815,Israel,Tiberias,38.0
+806,Israel,Nahariyya,34.0
+793,Israel,Ashdod,29.0
+799,Israel,Eilat,21.0
+802,Israel,Herzliya,13.0
+803,Israel,Jaffa,12.0
+809,Israel,Or Yehuda,8.0
+797,Israel,Bnei Brak,5.0
+808,Israel,Netivot,4.0
+791,Israel,Acre,1.0
+794,Israel,Ashkelon,1.0
+795,Israel,Bat Yam,1.0
+798,Israel,Dimona,0.0
+810,Israel,Qiryat Gat,0.0
+864,Italy,Savogna d'Isonzo,502.0
+859,Italy,Rome,367.0
+821,Italy,Bologna,292.0
+830,Italy,Florence,286.0
+822,Italy,Brescia,110.0
+833,Italy,Gioia Tauro,72.0
+841,Italy,Milan,69.0
+860,Italy,San Benedetto Val di Sambro,60.0
+846,Italy,Naples,24.0
+829,Italy,Crema,12.0
+823,Italy,Brindisi,6.0
+839,Italy,Macerata,6.0
+845,Italy,Motta di Livenza,3.0
+861,Italy,San Biagio di Callalta,2.0
+870,Italy,Turin,2.0
+817,Italy,Acerra,1.0
+820,Italy,Assisi,1.0
+824,Italy,Burgos,1.0
+832,Italy,Genoa,1.0
+868,Italy,Treviso,1.0
+871,Italy,Venice,1.0
+816,Italy,Abetone,0.0
+818,Italy,Agrigento,0.0
+819,Italy,Ancona,0.0
+825,Italy,Cagliari,0.0
+826,Italy,Carbonia,0.0
+827,Italy,Castelfranco Emilia,0.0
+828,Italy,Chieti,0.0
+831,Italy,Fossano,0.0
+834,Italy,Gorizia,0.0
+835,Italy,Guidonia,0.0
+836,Italy,La Spezia,0.0
+837,Italy,Lecce,0.0
+838,Italy,Lucca,0.0
+840,Italy,Messina,0.0
+842,Italy,Modena,0.0
+843,Italy,Monselice,0.0
+844,Italy,Monza,0.0
+847,Italy,Novara,0.0
+848,Italy,Nuoro,0.0
+849,Italy,Olbia,0.0
+850,Italy,Oristano,0.0
+851,Italy,Ozzano dell'Emilia,0.0
+852,Italy,Palermo,0.0
+853,Italy,Perugia,0.0
+854,Italy,Pinerolo,0.0
+855,Italy,Pisa,0.0
+856,Italy,Porcia,0.0
+857,Italy,Pordenone,0.0
+858,Italy,Portogruaro,0.0
+862,Italy,San Giorgio di Nogaro,0.0
+863,Italy,San Teodoro,0.0
+865,Italy,Sesto San Giovanni,0.0
+866,Italy,Signa,0.0
+867,Italy,Sindia,0.0
+869,Italy,Trieste,0.0
+872,Italy,Verona,0.0
+873,Italy,Vicenza,0.0
+874,Italy,Viterbo,0.0
+875,Italy,Vittoria,0.0
+876,Jamaica,Kingston,0.0
+893,Japan,Tokyo,5405.0
+885,Japan,Matsumoto,508.0
+891,Japan,Sapporo,87.0
+894,Japan,Wakayama,64.0
+889,Japan,Okinawa,25.0
+881,Japan,Karuizawa,15.0
+887,Japan,Narita,7.0
+892,Japan,Susono,1.0
+895,Japan,Yokohama,1.0
+877,Japan,Asahikawa,0.0
+878,Japan,Fukuoka,0.0
+879,Japan,Furukawa,0.0
+880,Japan,Hiroshima,0.0
+882,Japan,Kisarazu,0.0
+883,Japan,Kobe,0.0
+884,Japan,Kyoto,0.0
+886,Japan,Nagoya,0.0
+888,Japan,Niigata,0.0
+890,Japan,Osaka,0.0
+896,Japan,Yokosuka,0.0
+897,Jordan,Amman,217.0
+900,Jordan,Zarqa,2.0
+898,Jordan,Aqaba,0.0
+899,Jordan,Ma'an,0.0
+901,Kazakhstan,Aktobe,47.0
+903,Kenya,Nairobi,5552.0
+902,Kenya,Mombasa,0.0
+904,Kuwait,Kuwait City,119.0
+906,Laos,Vientiane,13.0
+905,Laos,Savannakhet,0.0
+908,Lebanon,Beirut,2526.0
+910,Lebanon,Sidon,173.0
+911,Lebanon,Tripoli,95.0
+912,Lebanon,Tyre,94.0
+909,Lebanon,Jounieh,27.0
+907,Lebanon,Baalbek,2.0
+913,Lesotho,Maseru,2.0
+914,Liberia,Voinjama,0.0
+915,Liberia,Zwedru,0.0
+916,Libya,Tripoli,54.0
+918,Lithuania,Vilnius,1.0
+917,Lithuania,Kaunas,0.0
+926,Macedonia,Skopje,10.0
+923,Macedonia,Kumanovo,7.0
+921,Macedonia,Brvenica,6.0
+930,Macedonia,Tetovo,4.0
+920,Macedonia,Bogovinje,1.0
+922,Macedonia,Gostivar,1.0
+924,Macedonia,Lipkovo,1.0
+919,Macedonia,Bitola,0.0
+925,Macedonia,Prilep,0.0
+927,Macedonia,Struga,0.0
+928,Macedonia,Strumica,0.0
+929,Macedonia,Tearce,0.0
+931,Malaysia,Lahad Datu,32.0
+932,Maldives,Male,3.0
+933,Mali,Gao,192.0
+935,Mali,Timbuktu,17.0
+934,Mali,Kidal,12.0
+937,Mauritania,Zouerate,2.0
+936,Mauritania,Nouadhibou,0.0
+941,Mexico,Nuevo Laredo,4.0
+943,Mexico,Tepetixtla,4.0
+940,Mexico,Mitontic,1.0
+938,Mexico,Guadalajara,0.0
+939,Mexico,Jiutepec,0.0
+942,Mexico,Progreso,0.0
+945,Moldova,Tiraspol,30.0
+944,Moldova,Chisinau,5.0
+948,Montenegro,Podgorica,1.0
+946,Montenegro,Andrijevica,0.0
+947,Montenegro,Bijelo Polje,0.0
+949,Montenegro,Ulcinj,0.0
+950,Morocco,Meknes,2.0
+953,Myanmar,Mandalay,35.0
+952,Myanmar,Lashio,24.0
+951,Myanmar,Dawei,23.0
+957,Myanmar,Yangon,2.0
+955,Myanmar,Sittwe,1.0
+954,Myanmar,Myawadi,0.0
+956,Myanmar,Tachilek,0.0
+958,Namibia,Oshakati,97.0
+963,Nepal,Kathmandu,208.0
+967,Nepal,Pokhara,42.0
+959,Nepal,Biratnagar,10.0
+968,Nepal,Siraha,9.0
+965,Nepal,Nepalgunj,8.0
+964,Nepal,Mahendranagar,3.0
+960,Nepal,Dailekh,2.0
+962,Nepal,Janakpur,2.0
+961,Nepal,Inaruwa,0.0
+966,Nepal,Panauti,0.0
+980,Netherlands,The Hague,20.0
+970,Netherlands,Amsterdam,14.0
+971,Netherlands,Assen,8.0
+975,Netherlands,Glimmen,6.0
+978,Netherlands,Roermond,5.0
+972,Netherlands,Beilen,3.0
+979,Netherlands,Rotterdam,2.0
+976,Netherlands,Hilversum,1.0
+969,Netherlands,Amersfoort,0.0
+973,Netherlands,Brunssum,0.0
+974,Netherlands,Eindhoven,0.0
+977,Netherlands,Ravenstein,0.0
+982,New Zealand,Christchurch,100.0
+981,New Zealand,Auckland,9.0
+983,New Zealand,Wellington,0.0
+985,Nicaragua,Managua,12.0
+984,Nicaragua,Corinto,10.0
+992,Nigeria,Madagali,234.0
+995,Nigeria,Mubi,231.0
+994,Nigeria,Monguno,162.0
+990,Nigeria,Kajuru,141.0
+989,Nigeria,Dapchi,113.0
+993,Nigeria,Maiduguri,95.0
+996,Nigeria,Okene,22.0
+991,Nigeria,Lagos,4.0
+986,Nigeria,Abuja,2.0
+987,Nigeria,Asaba,1.0
+988,Nigeria,Buguma,0.0
+997,Nigeria,Owerri,0.0
+998,Nigeria,Warri,0.0
+1000,Norway,Oslo,29.0
+999,Norway,Lillehammer,1.0
+1050,Pakistan,Peshawar,2440.0
+1051,Pakistan,Quetta,2245.0
+1025,Pakistan,Karachi,1820.0
+1035,Pakistan,Lahore,1226.0
+1020,Pakistan,Islamabad,1054.0
+1041,Pakistan,Mastung,434.0
+1053,Pakistan,Rawalpindi,434.0
+1056,Pakistan,Sehwan,391.0
+1011,Pakistan,Dera Ismail Khan,301.0
+1058,Pakistan,Sialkot,188.0
+1006,Pakistan,Charsadda,184.0
+1043,Pakistan,Multan,176.0
+1030,Pakistan,Khuzdar,166.0
+1019,Pakistan,Hyderabad,164.0
+1017,Pakistan,Hangu,123.0
+1031,Pakistan,Kohat,119.0
+1004,Pakistan,Bhakkar,114.0
+1002,Pakistan,Bannu,110.0
+1010,Pakistan,Dera Ghazi Khan,88.0
+1013,Pakistan,Gilgit,81.0
+1037,Pakistan,Landi Kotal,65.0
+1042,Pakistan,Mingora,57.0
+1040,Pakistan,Mardan,52.0
+1005,Pakistan,Chaman,45.0
+1001,Pakistan,Bahawalpur,43.0
+1014,Pakistan,Gujranwala,43.0
+1008,Pakistan,Daska,40.0
+1012,Pakistan,Faisalabad,36.0
+1032,Pakistan,Kohlu,36.0
+1054,Pakistan,Sakrand,33.0
+1038,Pakistan,Loralai,31.0
+1063,Pakistan,Wana,31.0
+1023,Pakistan,Kamra,30.0
+1016,Pakistan,Gwadar,22.0
+1061,Pakistan,Turbat,19.0
+1015,Pakistan,Gujrat,15.0
+1060,Pakistan,Sukkur,15.0
+1039,Pakistan,Mansehra,13.0
+1018,Pakistan,Harnai,12.0
+1027,Pakistan,Khairpur,12.0
+1021,Pakistan,Jacobabad,9.0
+1044,Pakistan,Murree,9.0
+1046,Pakistan,Nowshera,9.0
+1022,Pakistan,Jhang,6.0
+1026,Pakistan,Kasur,6.0
+1034,Pakistan,Kulachi,6.0
+1036,Pakistan,Lakki,5.0
+1003,Pakistan,Barkhan,4.0
+1064,Pakistan,Wazirabad,4.0
+1055,Pakistan,Sargodha,3.0
+1007,Pakistan,Chitral,2.0
+1033,Pakistan,Kotri,2.0
+1009,Pakistan,Dera Bugti,1.0
+1024,Pakistan,Kandhkot,1.0
+1048,Pakistan,Okara,1.0
+1057,Pakistan,Sheikhupura,1.0
+1028,Pakistan,Khanpur,0.0
+1029,Pakistan,Kharan,0.0
+1045,Pakistan,Nasirabad,0.0
+1047,Pakistan,Nushki,0.0
+1049,Pakistan,Pasni,0.0
+1052,Pakistan,Rajanpur,0.0
+1059,Pakistan,Sibi,0.0
+1062,Pakistan,Wah,0.0
+1065,Pakistan,Zhob,0.0
+1066,Paraguay,Pedro Juan Caballero,0.0
+1070,Peru,Lima,420.0
+1073,Peru,Satipo,17.0
+1067,Peru,Andahuaylas,11.0
+1072,Peru,Saposoa,3.0
+1069,Peru,Huancayo,2.0
+1074,Peru,Tarapoto,1.0
+1068,Peru,Chiclayo,0.0
+1071,Peru,San Isidro,0.0
+1075,Peru,Tarma,0.0
+1076,Peru,Trujillo,0.0
+1077,Peru,Uchiza,0.0
+1169,Philippines,Zamboanga,674.0
+1127,Philippines,Manila,652.0
+1098,Philippines,Davao,476.0
+1108,Philippines,Jolo,308.0
+1123,Philippines,Makati,167.0
+1114,Philippines,Lagangilang,130.0
+1142,Philippines,Parang,112.0
+1110,Philippines,Kidapawan,74.0
+1111,Philippines,Koronadal,71.0
+1124,Philippines,Makilala,67.0
+1115,Philippines,Lamitan,61.0
+1109,Philippines,Kabacan,56.0
+1162,Philippines,Tacurong,51.0
+1107,Philippines,Isulan,38.0
+1104,Philippines,Hilongos,33.0
+1087,Philippines,Butig,30.0
+1106,Philippines,Indanan,28.0
+1137,Philippines,Pagadian,28.0
+1099,Philippines,Digos,22.0
+1094,Philippines,Cotabato City,19.0
+1158,Philippines,Sumisip,16.0
+1089,Philippines,Calaca,13.0
+1097,Philippines,Datu Piang,13.0
+1117,Philippines,Libertad,11.0
+1130,Philippines,Midsayap,10.0
+1134,Philippines,Naga,10.0
+1150,Philippines,Sagay,10.0
+1160,Philippines,Surigao,9.0
+1112,Philippines,Kumalarang,8.0
+1083,Philippines,Bangued,7.0
+1155,Philippines,Shariff Aguak,7.0
+1121,Philippines,Luzon,6.0
+1164,Philippines,Taytay,6.0
+1085,Philippines,Bulalacao,4.0
+1165,Philippines,Tiaong,4.0
+1092,Philippines,Columbio,3.0
+1103,Philippines,Goa,3.0
+1133,Philippines,Nabunturan,3.0
+1154,Philippines,Santa Rosa,3.0
+1079,Philippines,Angeles City,2.0
+1080,Philippines,Antipolo,2.0
+1082,Philippines,Balanga,2.0
+1093,Philippines,Compostela,2.0
+1096,Philippines,Daraga,2.0
+1101,Philippines,Escalante,2.0
+1128,Philippines,Mapandan,2.0
+1139,Philippines,Panabo,2.0
+1145,Philippines,Patikul,2.0
+1147,Philippines,Puerto Princesa,2.0
+1148,Philippines,Quezon City,2.0
+1149,Philippines,Ragay,2.0
+1161,Philippines,Tabaco,2.0
+1081,Philippines,Baay,1.0
+1090,Philippines,Catbalogan,1.0
+1102,Philippines,Floridablanca,1.0
+1105,Philippines,Hinabangan,1.0
+1116,Philippines,Lamitan City,1.0
+1118,Philippines,Loreto,1.0
+1119,Philippines,Lucena,1.0
+1125,Philippines,Malaybalay,1.0
+1132,Philippines,Muntinlupa,1.0
+1135,Philippines,Olongapo,1.0
+1136,Philippines,Ormoc,1.0
+1140,Philippines,Panay,1.0
+1144,Philippines,Pata,1.0
+1151,Philippines,Salay,1.0
+1153,Philippines,Santa Rita,1.0
+1157,Philippines,South Ubian,1.0
+1078,Philippines,Angat,0.0
+1084,Philippines,Bongao,0.0
+1086,Philippines,Buldon,0.0
+1088,Philippines,Cagayan de Oro,0.0
+1091,Philippines,Claver,0.0
+1095,Philippines,Danao,0.0
+1100,Philippines,Dimataling,0.0
+1113,Philippines,Labangan,0.0
+1120,Philippines,Luna,0.0
+1122,Philippines,Maimbung,0.0
+1126,Philippines,Maluso,0.0
+1129,Philippines,Marawi,0.0
+1131,Philippines,Monkayo,0.0
+1138,Philippines,Palimbang,0.0
+1141,Philippines,Pandacan,0.0
+1143,Philippines,Pasig,0.0
+1146,Philippines,Pikit,0.0
+1152,Philippines,San Juan,0.0
+1156,Philippines,Siasi,0.0
+1159,Philippines,Surallah,0.0
+1163,Philippines,Tagum,0.0
+1166,Philippines,Trento,0.0
+1167,Philippines,Tuba,0.0
+1168,Philippines,Tulunan,0.0
+1170,Poland,Jenin,10.0
+1173,Poland,Warsaw,4.0
+1171,Poland,Kraków,3.0
+1172,Poland,Piaseczno,1.0
+1175,Portugal,Lisbon,20.0
+1174,Portugal,Albufeira,1.0
+1227,Russia,Moscow,1911.0
+1188,Russia,Beslan,1058.0
+1260,Russia,Vladikavkaz,421.0
+1220,Russia,Makhachkala,409.0
+1189,Russia,Buinsk,236.0
+1269,Russia,Yessentuki,211.0
+1225,Russia,Mineralnye Vody,174.0
+1270,Russia,Znamenskoye,162.0
+1243,Russia,Saint Petersburg,148.0
+1262,Russia,Volgodonsk,132.0
+1229,Russia,Mozdok,127.0
+1212,Russia,Kislovodsk,98.0
+1244,Russia,Samara,84.0
+1201,Russia,Gudermes,69.0
+1211,Russia,Khasavyurt,69.0
+1178,Russia,Alkhan-Yurt,51.0
+1239,Russia,Rostov,46.0
+1219,Russia,Magas,45.0
+1250,Russia,Sunzha,38.0
+1237,Russia,Pyatigorsk,37.0
+1221,Russia,Malaya Vishera,30.0
+1214,Russia,Kizlyar,23.0
+1209,Russia,Khabarovsk,22.0
+1182,Russia,Argun,18.0
+1184,Russia,Assinovskaya,13.0
+1241,Russia,Sadovyy,12.0
+1247,Russia,Shali,12.0
+1179,Russia,Alleroy,10.0
+1205,Russia,Karabulak,10.0
+1224,Russia,Mesker-Yurt,9.0
+1264,Russia,Voronezh,9.0
+1191,Russia,Cherkessk,8.0
+1203,Russia,Kalinovskaya,8.0
+1261,Russia,Vladivostok,8.0
+1249,Russia,Sochi,7.0
+1185,Russia,Astrakhan,6.0
+1186,Russia,Avtury,6.0
+1197,Russia,Gekhi,5.0
+1258,Russia,Vedeno,5.0
+1192,Russia,Chermen,4.0
+1198,Russia,Germenchuk,4.0
+1206,Russia,Karachayevsk,4.0
+1222,Russia,Malgobek,4.0
+1245,Russia,Samashki,4.0
+1255,Russia,Ufa,4.0
+1257,Russia,Ussuriysk,4.0
+1176,Russia,Achikulak,3.0
+1190,Russia,Buynaksk,3.0
+1199,Russia,Gimry,3.0
+1213,Russia,Kizilyurt,3.0
+1223,Russia,Mayskiy,3.0
+1238,Russia,Roshni-Chu,3.0
+1246,Russia,Saratov,3.0
+1193,Russia,Chita,2.0
+1216,Russia,Krasnoyarsk,2.0
+1236,Russia,Pokrovskoye,2.0
+1240,Russia,Rostov-na-Donu,2.0
+1248,Russia,Slavyanka,2.0
+1177,Russia,Alkhan-Kala,1.0
+1187,Russia,Barsuki,1.0
+1200,Russia,Gubden,1.0
+1202,Russia,Kafyr-Kumukh,1.0
+1217,Russia,Kulary,1.0
+1233,Russia,Nefteyugansk,1.0
+1234,Russia,Nesterovskaya,1.0
+1263,Russia,Volgograd,1.0
+1267,Russia,Yam,1.0
+1180,Russia,Altukhovo,0.0
+1181,Russia,Angarsk,0.0
+1183,Russia,Armavir,0.0
+1194,Russia,Dachnoye,0.0
+1195,Russia,Domodedovo,0.0
+1196,Russia,Ekazhevo,0.0
+1204,Russia,Kantyshevo,0.0
+1207,Russia,Kazan,0.0
+1208,Russia,Kemerovo,0.0
+1210,Russia,Khankala,0.0
+1215,Russia,Krasnodar,0.0
+1218,Russia,Kuli,0.0
+1226,Russia,Monino,0.0
+1228,Russia,Moskovskiy,0.0
+1230,Russia,Murmansk,0.0
+1231,Russia,Naushki,0.0
+1232,Russia,Neftekumsk,0.0
+1235,Russia,Norilsk,0.0
+1242,Russia,Sagopshi,0.0
+1251,Russia,Troitskoye,0.0
+1252,Russia,Tula,0.0
+1253,Russia,Tver,0.0
+1254,Russia,Uchkent,0.0
+1256,Russia,Ulyanovsk,0.0
+1259,Russia,Verkhnyaya Salda,0.0
+1265,Russia,Voznesenskaya,0.0
+1266,Russia,Yakhroma,0.0
+1268,Russia,Yekaterinburg,0.0
+1272,Rwanda,Kigali,23.0
+1271,Rwanda,Butare,7.0
+1280,Saudi Arabia,Mecca,595.0
+1279,Saudi Arabia,Khobar,571.0
+1277,Saudi Arabia,Dhahran,521.0
+1282,Saudi Arabia,Riyadh,426.0
+1274,Saudi Arabia,Arar,63.0
+1278,Saudi Arabia,Jeddah,38.0
+1273,Saudi Arabia,Abha,26.0
+1283,Saudi Arabia,Yanbu,25.0
+1275,Saudi Arabia,Buraydah,5.0
+1281,Saudi Arabia,Medina,4.0
+1276,Saudi Arabia,Dammam,0.0
+1287,Serbia,Prokuplje,18.0
+1284,Serbia,Jagodina,1.0
+1285,Serbia,Leskovac,0.0
+1286,Serbia,Novi Pazar,0.0
+1288,Serbia,Rajince,0.0
+1289,Serbia,Subotica,0.0
+1290,Serbia,Valjevo,0.0
+1293,Sierra Leone,Segbwema,8.0
+1291,Sierra Leone,Freetown,0.0
+1292,Sierra Leone,Kambia,0.0
+1294,Slovakia,Bratislava,2.0
+1295,Slovenia,Ljubljana,0.0
+1303,Somalia,Mogadishu,3017.0
+1298,Somalia,Baidoa,122.0
+1301,Somalia,Kismayo,82.0
+1296,Somalia,Afgooye,29.0
+1299,Somalia,Beledweyne,26.0
+1302,Somalia,Marka,20.0
+1297,Somalia,Baardheere,18.0
+1300,Somalia,Gaalkacyo,11.0
+1304,Somalia,Xuddur,7.0
+1313,South Africa,Pretoria,268.0
+1308,South Africa,Cape Town,212.0
+1311,South Africa,Johannesburg,137.0
+1309,South Africa,Durban,36.0
+1305,South Africa,Bethlehem,28.0
+1312,South Africa,Port Elizabeth,4.0
+1307,South Africa,Bronkhorstspruit,2.0
+1306,South Africa,Bloemfontein,0.0
+1310,South Africa,East London,0.0
+1314,South Africa,Soweto,0.0
+1372,Spain,Madrid,888.0
+1329,Spain,Barcelona,385.0
+1415,Spain,Zaragoza,143.0
+1340,Spain,Burgos,65.0
+1408,Spain,Vic,53.0
+1386,Spain,Pamplona,38.0
+1380,Spain,Mutxamel,33.0
+1337,Spain,Bilbao,30.0
+1395,Spain,Santa Pola,27.0
+1357,Spain,Getxo,19.0
+1390,Spain,Sabadell,16.0
+1317,Spain,Alonsotegi,14.0
+1416,Spain,Zarautz,14.0
+1392,Spain,Salou,13.0
+1382,Spain,Ondarroa,12.0
+1316,Spain,Alicante,8.0
+1332,Spain,Benidorm,7.0
+1384,Spain,Orio,6.0
+1352,Spain,Errenteria,5.0
+1320,Spain,Andoain,4.0
+1373,Spain,Marbella,4.0
+1374,Spain,Markina-Xemein,4.0
+1388,Spain,Portugalete,4.0
+1389,Spain,Roses,4.0
+1322,Spain,Arrigorriaga,3.0
+1360,Spain,Hernani,3.0
+1331,Spain,Beasain,2.0
+1346,Spain,Durango,2.0
+1381,Spain,Noja,2.0
+1391,Spain,Sallent,2.0
+1398,Spain,Santillana,2.0
+1326,Spain,Azpeitia,1.0
+1327,Spain,Baiona,1.0
+1330,Spain,Basauri,1.0
+1338,Spain,Blancas,1.0
+1343,Spain,Ciudad Real,1.0
+1344,Spain,Denia,1.0
+1348,Spain,Eibar,1.0
+1358,Spain,Granada,1.0
+1367,Spain,Lasarte,1.0
+1383,Spain,Ordizia,1.0
+1400,Spain,Sestao,1.0
+1403,Spain,Tolosa,1.0
+1417,Spain,Zumaia,1.0
+1418,Spain,Zumarraga,1.0
+1315,Spain,Algorta,0.0
+1318,Spain,Amorebieta,0.0
+1319,Spain,Amurrio,0.0
+1321,Spain,Arenas,0.0
+1323,Spain,Astigarraga,0.0
+1324,Spain,Azagra,0.0
+1325,Spain,Azkoitia,0.0
+1328,Spain,Bakio,0.0
+1333,Spain,Berango,0.0
+1334,Spain,Bermeo,0.0
+1335,Spain,Berriozar,0.0
+1336,Spain,Berriz,0.0
+1339,Spain,Briviesca,0.0
+1341,Spain,Cadiz,0.0
+1342,Spain,Calahorra,0.0
+1345,Spain,Derio,0.0
+1347,Spain,Echarri-Aranaz,0.0
+1349,Spain,Elgoibar,0.0
+1350,Spain,Elorrio,0.0
+1351,Spain,Erandio,0.0
+1353,Spain,Figueres,0.0
+1354,Spain,Fuenmayor,0.0
+1355,Spain,Galdakao,0.0
+1356,Spain,Gandia,0.0
+1359,Spain,Granollers,0.0
+1361,Spain,Idiazabal,0.0
+1362,Spain,Irura,0.0
+1363,Spain,La Carolina,0.0
+1364,Spain,La Fuliola,0.0
+1365,Spain,La Roda,0.0
+1366,Spain,Laredo,0.0
+1368,Spain,Leioa,0.0
+1369,Spain,Lekeitio,0.0
+1370,Spain,Lezo,0.0
+1371,Spain,Lugo,0.0
+1375,Spain,Mendaro,0.0
+1376,Spain,Miranda de Arga,0.0
+1377,Spain,Molins de Rei,0.0
+1378,Spain,Mungia,0.0
+1379,Spain,Murgia,0.0
+1385,Spain,Palma,0.0
+1387,Spain,Poio,0.0
+1393,Spain,San Vicente de la Barquera,0.0
+1394,Spain,Sant Andreu,0.0
+1396,Spain,Santander,0.0
+1397,Spain,Santiago de Compostela,0.0
+1399,Spain,Santurtzi,0.0
+1401,Spain,Tafalla,0.0
+1402,Spain,Tarragona,0.0
+1404,Spain,Torremolinos,0.0
+1405,Spain,Torrevieja,0.0
+1406,Spain,Tudela,0.0
+1407,Spain,Urnieta,0.0
+1409,Spain,Vigo,0.0
+1410,Spain,Villabona,0.0
+1411,Spain,Villajoyosa,0.0
+1412,Spain,Villaseca de la Sagra,0.0
+1413,Spain,Zaldibar,0.0
+1414,Spain,Zalla,0.0
+1424,Sri Lanka,Colombo,3520.0
+1421,Sri Lanka,Anuradhapura,341.0
+1428,Sri Lanka,Jaffna,235.0
+1422,Sri Lanka,Batticaloa,234.0
+1442,Sri Lanka,Vavuniya,171.0
+1440,Sri Lanka,Ratmalana,127.0
+1441,Sri Lanka,Trincomalee,113.0
+1436,Sri Lanka,Moratuwa,102.0
+1425,Sri Lanka,Dambulla,70.0
+1426,Sri Lanka,Gampaha,69.0
+1431,Sri Lanka,Kandy,58.0
+1419,Sri Lanka,Ambalangoda,55.0
+1435,Sri Lanka,Monaragala,52.0
+1420,Sri Lanka,Ampara,48.0
+1434,Sri Lanka,Kurunegala,20.0
+1432,Sri Lanka,Kotte,18.0
+1429,Sri Lanka,Kalmunai,16.0
+1437,Sri Lanka,Point Pedro,10.0
+1438,Sri Lanka,Polonnaruwa,2.0
+1423,Sri Lanka,Chilaw,0.0
+1427,Sri Lanka,Hatton,0.0
+1430,Sri Lanka,Kalutara,0.0
+1433,Sri Lanka,Kuliyapitiya,0.0
+1439,Sri Lanka,Puttalam,0.0
+1443,Suriname,Paramaribo,1.0
+1445,Swaziland,Mbabane,14.0
+1444,Swaziland,Manzini,2.0
+1447,Sweden,Stockholm,56.0
+1446,Sweden,Nacka,2.0
+1448,Sweden,Sundbyberg,0.0
+1454,Switzerland,Lausanne,20.0
+1453,Switzerland,Genève,18.0
+1455,Switzerland,Zürich,16.0
+1450,Switzerland,Bern,9.0
+1449,Switzerland,Basel,3.0
+1451,Switzerland,Chiasso,0.0
+1452,Switzerland,Davos,0.0
+1457,Syria,Damascus,1967.0
+1456,Syria,Aleppo,731.0
+1458,Syria,Deir ez-Zor,300.0
+1459,Syria,Homs,157.0
+1460,Syria,Idlib,100.0
+1461,Syria,Manbij,22.0
+1463,Taiwan,Taipei,25.0
+1462,Taiwan,Kaohsiung,5.0
+1464,Tajikistan,Danghara,6.0
+1465,Tajikistan,Tursunzoda,5.0
+1466,Tanzania,Dar es Salaam,88.0
+1467,Tanzania,Zanzibar,0.0
+1468,Thailand,Bangkok,264.0
+1470,Thailand,Hat Yai,63.0
+1469,Thailand,Betong,53.0
+1471,Thailand,Hua Hin,29.0
+1478,Thailand,Yaring,11.0
+1476,Thailand,Tak Bai,10.0
+1475,Thailand,Sai Buri,9.0
+1477,Thailand,Waeng,6.0
+1472,Thailand,Mae Sot,4.0
+1473,Thailand,Nong Chik,1.0
+1474,Thailand,Pong,1.0
+1479,Tunisia,Tunis,6.0
+1507,Turkey,Istanbul,2531.0
+1482,Turkey,Ankara,394.0
+1503,Turkey,Gaziantep,223.0
+1537,Turkey,Sivas,90.0
+1509,Turkey,Kayseri,69.0
+1546,Turkey,Van,54.0
+1483,Turkey,Antalya,52.0
+1480,Turkey,Adana,43.0
+1519,Turkey,Marmaris,43.0
+1522,Turkey,Midyat,36.0
+1521,Turkey,Mersin,31.0
+1513,Turkey,Lice,28.0
+1504,Turkey,Gebze,20.0
+1499,Turkey,Esenler,17.0
+1534,Turkey,Siirt,16.0
+1489,Turkey,Bursa,14.0
+1495,Turkey,Eruh,13.0
+1531,Turkey,Pervari,10.0
+1541,Turkey,Trabzon,9.0
+1484,Turkey,Batman,8.0
+1527,Turkey,Ordu,7.0
+1486,Turkey,Bitlis,6.0
+1515,Turkey,Malazgirt,6.0
+1524,Turkey,Niksar,6.0
+1526,Turkey,Of,5.0
+1535,Turkey,Silopi,5.0
+1540,Turkey,Tokat,5.0
+1543,Turkey,Turhal,4.0
+1512,Turkey,Kulp,3.0
+1525,Turkey,Nusaybin,3.0
+1536,Turkey,Silvan,3.0
+1542,Turkey,Tunceli,3.0
+1544,Turkey,Uludere,3.0
+1545,Turkey,Umraniye,3.0
+1493,Turkey,Diyadin,2.0
+1500,Turkey,Esenyurt,2.0
+1506,Turkey,Hozat,2.0
+1511,Turkey,Kilis,2.0
+1528,Turkey,Patnos,2.0
+1487,Turkey,Bodrum,1.0
+1505,Turkey,Hassa,1.0
+1538,Turkey,Siverek,1.0
+1481,Turkey,Aksaray,0.0
+1485,Turkey,Bayburt,0.0
+1488,Turkey,Buca,0.0
+1490,Turkey,Cizre,0.0
+1491,Turkey,Derince,0.0
+1492,Turkey,Devrek,0.0
+1494,Turkey,Edremit,0.0
+1496,Turkey,Erzin,0.0
+1497,Turkey,Erzincan,0.0
+1498,Turkey,Erzurum,0.0
+1501,Turkey,Espiye,0.0
+1502,Turkey,Fethiye,0.0
+1508,Turkey,Kartal,0.0
+1510,Turkey,Kelkit,0.0
+1514,Turkey,Malatya,0.0
+1516,Turkey,Maltepe,0.0
+1517,Turkey,Mardin,0.0
+1518,Turkey,Marmara,0.0
+1520,Turkey,Mazgirt,0.0
+1523,Turkey,Nazimiye,0.0
+1529,Turkey,Payas,0.0
+1530,Turkey,Pendik,0.0
+1532,Turkey,Refahiye,0.0
+1533,Turkey,Seyhan,0.0
+1539,Turkey,Tarsus,0.0
+1547,Turkey,Yenimahalle,0.0
+1554,Uganda,Lira,424.0
+1552,Uganda,Kampala,172.0
+1550,Uganda,Gulu,99.0
+1555,Uganda,Masaka,36.0
+1548,Uganda,Adjumani,35.0
+1553,Uganda,Kitgum,32.0
+1551,Uganda,Jinja,14.0
+1556,Uganda,Mbarara,5.0
+1549,Uganda,Entebbe,4.0
+1557,Ukraine,Brovary,8.0
+1565,Ukraine,Yevpatoriya,3.0
+1562,Ukraine,Odessa,2.0
+1564,Ukraine,Yalta,2.0
+1558,Ukraine,Donetsk,0.0
+1559,Ukraine,Kharkiv,0.0
+1560,Ukraine,Lutsk,0.0
+1561,Ukraine,Lviv,0.0
+1563,Ukraine,Simferopol,0.0
+1566,United Arab Emirates,Dubai,4.0
+1616,United Kingdom,London,2183.0
+1577,United Kingdom,Belfast,898.0
+1615,United Kingdom,Lockerbie,275.0
+1622,United Kingdom,Newry,111.0
+1599,United Kingdom,Enniskillen,92.0
+1604,United Kingdom,Guildford,70.0
+1628,United Kingdom,Omagh,53.0
+1588,United Kingdom,Coleraine,42.0
+1579,United Kingdom,Brighton,36.0
+1586,United Kingdom,Caterham,33.0
+1603,United Kingdom,Gilford,33.0
+1639,United Kingdom,Warrenpoint,26.0
+1569,United Kingdom,Aldershot,25.0
+1597,United Kingdom,Dungannon,22.0
+1608,United Kingdom,Keady,22.0
+1614,United Kingdom,Lisburn,19.0
+1572,United Kingdom,Armagh,16.0
+1619,United Kingdom,Moira,7.0
+1584,United Kingdom,Castlerock,5.0
+1595,United Kingdom,Derry,5.0
+1590,United Kingdom,Craigavon,4.0
+1596,United Kingdom,Draperstown,3.0
+1631,United Kingdom,Portadown,3.0
+1637,United Kingdom,Swansea,3.0
+1573,United Kingdom,Ballycastle,2.0
+1591,United Kingdom,Crossmaglen,2.0
+1618,United Kingdom,Magherafelt,2.0
+1621,United Kingdom,Newcastle,2.0
+1567,United Kingdom,Abingdon,1.0
+1574,United Kingdom,Ballymena,1.0
+1581,United Kingdom,Carrickfergus,1.0
+1583,United Kingdom,Castlederg,1.0
+1585,United Kingdom,Castlewellan,1.0
+1592,United Kingdom,Crumlin,1.0
+1594,United Kingdom,Derby,1.0
+1600,United Kingdom,Essex,1.0
+1601,United Kingdom,Exeter,1.0
+1612,United Kingdom,Kirkcaldy,1.0
+1613,United Kingdom,Larne,1.0
+1625,United Kingdom,Newtownstewart,1.0
+1626,United Kingdom,Northampton,1.0
+1630,United Kingdom,Pevensey,1.0
+1636,United Kingdom,Strabane,1.0
+1568,United Kingdom,Ahoghill,0.0
+1570,United Kingdom,Annalong,0.0
+1571,United Kingdom,Ardglass,0.0
+1575,United Kingdom,Ballynahinch,0.0
+1576,United Kingdom,Bangor,0.0
+1578,United Kingdom,Bootle,0.0
+1580,United Kingdom,Carnlough,0.0
+1582,United Kingdom,Castledawson,0.0
+1587,United Kingdom,Coalisland,0.0
+1589,United Kingdom,Cookstown,0.0
+1593,United Kingdom,Cushendall,0.0
+1598,United Kingdom,Dunloy,0.0
+1602,United Kingdom,Garvagh,0.0
+1605,United Kingdom,Hillsborough,0.0
+1606,United Kingdom,Hove,0.0
+1607,United Kingdom,Irvinestown,0.0
+1609,United Kingdom,Kilkeel,0.0
+1610,United Kingdom,Killyleagh,0.0
+1611,United Kingdom,Kilrea,0.0
+1617,United Kingdom,Maghera,0.0
+1620,United Kingdom,Moneymore,0.0
+1623,United Kingdom,Newtownabbey,0.0
+1624,United Kingdom,Newtownards,0.0
+1627,United Kingdom,Nottingham,0.0
+1629,United Kingdom,Oxford,0.0
+1632,United Kingdom,Portrush,0.0
+1633,United Kingdom,Portstewart,0.0
+1634,United Kingdom,Randalstown,0.0
+1635,United Kingdom,Sion Mills,0.0
+1638,United Kingdom,Tipton,0.0
+1640,United Kingdom,Whitehead,0.0
+1641,United Kingdom,Wolverhampton,0.0
+1725,United States,New York City,6354.0
+1763,United States,The Dalles,751.0
+1730,United States,Oklahoma City,668.0
+1695,United States,Hebron,399.0
+1648,United States,Atlanta,117.0
+1733,United States,Orlando,102.0
+1674,United States,El Paso,46.0
+1666,United States,Columbia,35.0
+1776,United States,York,32.0
+1713,United States,Los Angeles,21.0
+1661,United States,Charlottesville,20.0
+1662,United States,Chicago,19.0
+1724,United States,New Orleans,19.0
+1739,United States,Pittsburgh,17.0
+1667,United States,Columbus,15.0
+1737,United States,Pensacola,11.0
+1751,United States,San Francisco,11.0
+1650,United States,Austin,8.0
+1704,United States,Jersey City,7.0
+1645,United States,Alexandria,6.0
+1657,United States,Boca Raton,6.0
+1658,United States,Boston,6.0
+1752,United States,Sandy Springs,6.0
+1757,United States,Seattle,6.0
+1685,United States,Fort Lauderdale,5.0
+1709,United States,Langley,5.0
+1716,United States,Miami,5.0
+1714,United States,Madison,4.0
+1741,United States,Poway,4.0
+1672,United States,Detroit,3.0
+1705,United States,Kansas City,3.0
+1723,United States,Nanuet,3.0
+1651,United States,Baltimore,2.0
+1653,United States,Berkeley,2.0
+1655,United States,Birmingham,2.0
+1712,United States,Little Rock,2.0
+1753,United States,Santa Barbara,2.0
+1759,United States,Speedway,2.0
+1654,United States,Bethesda,1.0
+1659,United States,Brooklyn,1.0
+1669,United States,Dallas,1.0
+1671,United States,Dearborn,1.0
+1682,United States,Evanston,1.0
+1683,United States,Fargo,1.0
+1684,United States,Flint,1.0
+1686,United States,Fresno,1.0
+1688,United States,Garden Grove,1.0
+1691,United States,Glendale,1.0
+1729,United States,Ogden,1.0
+1732,United States,Orange,1.0
+1734,United States,Oxford,1.0
+1738,United States,Philadelphia,1.0
+1754,United States,Santa Cruz,1.0
+1762,United States,Tampa,1.0
+1764,United States,Torrance,1.0
+1767,United States,Union,1.0
+1775,United States,Wichita,1.0
+1642,United States,Albany,0.0
+1643,United States,Albertville,0.0
+1644,United States,Albuquerque,0.0
+1646,United States,Anaheim,0.0
+1647,United States,Astoria,0.0
+1649,United States,Auburn,0.0
+1652,United States,Bellingham,0.0
+1656,United States,Bloomington,0.0
+1660,United States,Cambridge,0.0
+1663,United States,Chico,0.0
+1664,United States,Clatskanie,0.0
+1665,United States,Colleyville,0.0
+1668,United States,Coral Gables,0.0
+1670,United States,De Kalb,0.0
+1673,United States,East Lansing,0.0
+1675,United States,Elizabeth,0.0
+1676,United States,Ellettsville,0.0
+1677,United States,Emeryville,0.0
+1678,United States,Erie,0.0
+1679,United States,Escondido,0.0
+1680,United States,Estacada,0.0
+1681,United States,Eugene,0.0
+1687,United States,Galveston,0.0
+1689,United States,Girard,0.0
+1690,United States,Glen Cove,0.0
+1692,United States,Grangeville,0.0
+1693,United States,Greenville,0.0
+1694,United States,Hagerstown,0.0
+1696,United States,Hialeah,0.0
+1697,United States,Hoboken,0.0
+1698,United States,Hollywood,0.0
+1699,United States,Houghton,0.0
+1700,United States,Houston,0.0
+1701,United States,Irvine,0.0
+1702,United States,Jacksonville,0.0
+1703,United States,Jericho,0.0
+1706,United States,Key Biscayne,0.0
+1707,United States,Key West,0.0
+1708,United States,Laguna Woods,0.0
+1710,United States,Leavenworth,0.0
+1711,United States,Lincoln,0.0
+1715,United States,Medford,0.0
+1717,United States,Middle Island,0.0
+1718,United States,Miller Place,0.0
+1719,United States,Minneapolis,0.0
+1720,United States,Monmouth,0.0
+1721,United States,Montgomery,0.0
+1722,United States,Mount Sinai,0.0
+1726,United States,Niwot,0.0
+1727,United States,North Vernon,0.0
+1728,United States,Oakland,0.0
+1731,United States,Opelousas,0.0
+1735,United States,Pacific,0.0
+1736,United States,Paul,0.0
+1740,United States,Portland,0.0
+1742,United States,Provo,0.0
+1743,United States,Queens,0.0
+1744,United States,Redmond,0.0
+1745,United States,Richmond,0.0
+1746,United States,Rockville,0.0
+1747,United States,Roseville,0.0
+1748,United States,Sacramento,0.0
+1749,United States,Sammamish,0.0
+1750,United States,San Diego,0.0
+1755,United States,Santa Monica,0.0
+1756,United States,Scottsdale,0.0
+1758,United States,Snohomish,0.0
+1760,United States,Sutter,0.0
+1761,United States,Tacoma,0.0
+1765,United States,Tucson,0.0
+1766,United States,Umatilla,0.0
+1768,United States,University,0.0
+1769,United States,Vail,0.0
+1770,United States,Viroqua,0.0
+1771,United States,Visalia,0.0
+1772,United States,West,0.0
+1773,United States,West Covina,0.0
+1774,United States,West Jordan,0.0
+1777,Uruguay,Montevideo,9.0
+1778,Uzbekistan,Bekobod,0.0
+1780,Venezuela,Caracas,80.0
+1782,Venezuela,La Victoria,3.0
+1781,Venezuela,Coro,1.0
+1779,Venezuela,Cabudare,0.0
+1783,Venezuela,Los Teques,0.0
+1784,Venezuela,Maracaibo,0.0
+1785,Venezuela,Puerto La Cruz,0.0
+1786,Venezuela,Valencia,0.0
+1787,Vietnam,Ho Chi Minh City,0.0
+1788,Yemen,Aden,698.0
+1795,Yemen,Mukalla,187.0
+1796,Yemen,Sanaa,142.0
+1791,Yemen,Ma'rib,4.0
+1793,Yemen,Medghal,2.0
+1789,Yemen,Ibb,0.0
+1790,Yemen,Khamir,0.0
+1792,Yemen,Marib,0.0
+1794,Yemen,Mudiyah,0.0
+1798,Zambia,Lusaka,11.0
+1797,Zambia,Livingstone,7.0
+1799,Zimbabwe,Bulawayo,54.0
+1800,Zimbabwe,Harare,23.0
+1801,Zimbabwe,Kariba,1.0
+1802,Zimbabwe,Mutare,0.0
+1803,Zimbabwe,Penhalonga,0.0

@@ -1,0 +1,418 @@
+COUNTRY,CITY,total_damage
+Afghanistan,Kunduz,211.0
+Afghanistan,Kabul,60.0
+Afghanistan,Zaranj,59.0
+Afghanistan,Gardez,27.0
+Afghanistan,Charikar,26.0
+Albania,Bajram Curri,4.0
+Albania,Tirana,3.0
+Albania,Fier,1.0
+Algeria,Lakhdaria,71.0
+Algeria,Boufarik,66.0
+Algeria,Birkhadem,44.0
+Algeria,Khemis Miliana,42.0
+Algeria,Dellys,36.0
+Angola,Luanda,428.0
+Angola,Huambo,230.0
+Angola,Lucapa,20.0
+Angola,Sumbe,6.0
+Angola,Cabinda,5.0
+Argentina,Buenos Aires,1227.0
+Argentina,Formosa,47.0
+Argentina,Rosario,41.0
+Argentina,Avellaneda,0.0
+Argentina,Clorinda,0.0
+Armenia,Bagratashen,58.0
+Australia,Melbourne,29.0
+Australia,Sydney,29.0
+Australia,City,27.0
+Australia,Brighton,4.0
+Australia,Brisbane,1.0
+Austria,Vienna,143.0
+Austria,Linz,7.0
+Austria,Graz,1.0
+Austria,Klagenfurt,0.0
+Bahrain,Manama,20.0
+Bangladesh,Dhaka,644.0
+Bangladesh,Sylhet,166.0
+Bangladesh,Jessore,160.0
+Bangladesh,Narayanganj,131.0
+Bangladesh,Gazipur,121.0
+Barbados,Bridgetown,0.0
+Belgium,Brussels,452.0
+Belgium,Marche-en-Famenne,8.0
+Belgium,Charleroi,2.0
+Belgium,Ostend,1.0
+Belize,Belmopan,0.0
+Benin,Cotonou,3.0
+Bolivia,Oruro,62.0
+Bolivia,La Paz,37.0
+Bolivia,Caranavi,0.0
+Bolivia,Cochabamba,0.0
+Bolivia,Mizque,0.0
+Bosnia and Herzegovina,Sarajevo,337.0
+Bosnia and Herzegovina,Mostar,37.0
+Bosnia and Herzegovina,Vitez,6.0
+Bosnia and Herzegovina,Jajce,4.0
+Bosnia and Herzegovina,Bijeljina,2.0
+Botswana,Gaborone,1.0
+Brazil,Rio de Janeiro,36.0
+Brazil,São Paulo,8.0
+Brazil,Porto Alegre,2.0
+Brazil,Altamira,1.0
+Brazil,Salvador,1.0
+Bulgaria,Burgas,37.0
+Bulgaria,Pleven,1.0
+Bulgaria,Montana,0.0
+Bulgaria,Pernik,0.0
+Bulgaria,Plovdiv,0.0
+Burkina Faso,Ouagadougou,242.0
+Burundi,Bujumbura,18.0
+Burundi,Rutana,14.0
+Cambodia,Siem Reap,1.0
+Cambodia,Pursat,0.0
+Cameroon,Kumbo,1.0
+Canada,Montréal,366.0
+Canada,Toronto,13.0
+Canada,Ottawa,5.0
+Canada,Campbell River,1.0
+Canada,Vancouver,1.0
+Chad,Mao,0.0
+Chile,Santiago,88.0
+Chile,O'Higgins,12.0
+Chile,Osorno,1.0
+Chile,Puerto Montt,1.0
+Chile,Talcahuano,1.0
+China,Chengdu,51.0
+China,Wuhan,50.0
+China,Kashgar,32.0
+China,Hotan,17.0
+China,Shenzhen,4.0
+Colombia,Bogota,2051.0
+Colombia,Medellín,486.0
+Colombia,Cali,226.0
+Colombia,Florencia,171.0
+Colombia,Bojaya,130.0
+Costa Rica,Heredia,1.0
+Cote D'Ivoire (Ivory Coast),Grand-Bassam,52.0
+Croatia,Rijeka,30.0
+Croatia,Petrinja,5.0
+Croatia,Vinkovci,2.0
+Croatia,Pula,1.0
+Croatia,Bibinje,0.0
+Cuba,Havana,5.0
+Cuba,Varadero,0.0
+Cyprus,Nicosia,39.0
+Cyprus,Limassol,11.0
+Cyprus,Larnaca,0.0
+Czech Republic,Ostrava,4.0
+Czech Republic,Prague,1.0
+Denmark,Copenhagen,40.0
+Denmark,Greve,0.0
+Dominican Republic,Santo Domingo,3.0
+Dominican Republic,Mella,0.0
+East Timor,Dili,2.0
+East Timor,Viqueque,2.0
+Ecuador,Quito,14.0
+Ecuador,Guayaquil,5.0
+Ecuador,Portoviejo,3.0
+Ecuador,Ambato,0.0
+Ecuador,Cuenca,0.0
+Egypt,Cairo,440.0
+Egypt,Sharm el-Sheikh,206.0
+Egypt,Alexandria,159.0
+Egypt,Luxor,108.0
+Egypt,Dahab,106.0
+El Salvador,San Salvador,115.0
+El Salvador,San Miguel,6.0
+El Salvador,Chalchuapa,1.0
+El Salvador,San Marcos,0.0
+El Salvador,Suchitoto,0.0
+Eritrea,Barentu,53.0
+Eritrea,Teseney,15.0
+Eritrea,Asmara,2.0
+Estonia,Tallinn,4.0
+Ethiopia,Jijiga,83.0
+Ethiopia,Bishoftu,4.0
+Ethiopia,Axum,0.0
+Ethiopia,Korem,0.0
+Fiji Islands,Lautoka,0.0
+Finland,Turku,10.0
+France,Paris,2211.0
+France,Nice,561.0
+France,Marseille,89.0
+France,Lyon,46.0
+France,Borgo,29.0
+Gabon,Libreville,2.0
+Georgia,Zugdidi,64.0
+Georgia,Gori,29.0
+Georgia,Gali,6.0
+Georgia,Kutaisi,0.0
+Germany,Munich,431.0
+Germany,Berlin,113.0
+Germany,Frankfurt am Main,77.0
+Germany,Saarlouis,20.0
+Germany,Eppstein,19.0
+Greece,Athens,384.0
+Greece,Piraeus,226.0
+Guatemala,Guatemala City,91.0
+Guatemala,Quetzaltenango,2.0
+Guatemala,Huehuetenango,1.0
+Guyana,Georgetown,9.0
+Haiti,Port-au-Prince,5.0
+Honduras,Tegucigalpa,34.0
+Honduras,La Ceiba,7.0
+Honduras,San Pedro Sula,6.0
+Honduras,Choluteca,1.0
+India,Mumbai,3317.0
+India,Srinagar,876.0
+India,Guwahati,841.0
+India,Bongaigaon,557.0
+India,Jammu,433.0
+Indonesia,Jakarta,2554.0
+Indonesia,Ternate,2002.0
+Indonesia,Ambon,233.0
+Indonesia,Sidoarjo,72.0
+Indonesia,Palu,63.0
+Iran,Abadan,403.0
+Iran,Ahvaz,248.0
+Iran,Tehran,216.0
+Iran,Chabahar,50.0
+Iran,Zahedan,38.0
+Iraq,Baghdad,21283.0
+Iraq,Kirkuk,3418.0
+Iraq,Mosul,2916.0
+Iraq,Sinjar,2170.0
+Iraq,Karbala,1401.0
+Ireland,Dublin,359.0
+Ireland,Dundalk,31.0
+Ireland,Sligo,4.0
+Ireland,Limerick,2.0
+Ireland,Monaghan,0.0
+Israel,Jerusalem,3376.0
+Israel,Tel Aviv,2098.0
+Israel,Netanya,560.0
+Israel,Haifa,424.0
+Israel,Hadera,310.0
+Italy,Savogna d'Isonzo,502.0
+Italy,Rome,367.0
+Italy,Bologna,292.0
+Italy,Florence,286.0
+Italy,Brescia,110.0
+Jamaica,Kingston,0.0
+Japan,Tokyo,5405.0
+Japan,Matsumoto,508.0
+Japan,Sapporo,87.0
+Japan,Wakayama,64.0
+Japan,Okinawa,25.0
+Jordan,Amman,217.0
+Jordan,Zarqa,2.0
+Jordan,Aqaba,0.0
+Jordan,Ma'an,0.0
+Kazakhstan,Aktobe,47.0
+Kenya,Nairobi,5552.0
+Kenya,Mombasa,0.0
+Kuwait,Kuwait City,119.0
+Laos,Vientiane,13.0
+Laos,Savannakhet,0.0
+Lebanon,Beirut,2526.0
+Lebanon,Sidon,173.0
+Lebanon,Tripoli,95.0
+Lebanon,Tyre,94.0
+Lebanon,Jounieh,27.0
+Lesotho,Maseru,2.0
+Liberia,Voinjama,0.0
+Liberia,Zwedru,0.0
+Libya,Tripoli,54.0
+Lithuania,Vilnius,1.0
+Lithuania,Kaunas,0.0
+Macedonia,Skopje,10.0
+Macedonia,Kumanovo,7.0
+Macedonia,Brvenica,6.0
+Macedonia,Tetovo,4.0
+Macedonia,Bogovinje,1.0
+Malaysia,Lahad Datu,32.0
+Maldives,Male,3.0
+Mali,Gao,192.0
+Mali,Timbuktu,17.0
+Mali,Kidal,12.0
+Mauritania,Zouerate,2.0
+Mauritania,Nouadhibou,0.0
+Mexico,Nuevo Laredo,4.0
+Mexico,Tepetixtla,4.0
+Mexico,Mitontic,1.0
+Mexico,Guadalajara,0.0
+Mexico,Jiutepec,0.0
+Moldova,Tiraspol,30.0
+Moldova,Chisinau,5.0
+Montenegro,Podgorica,1.0
+Montenegro,Andrijevica,0.0
+Montenegro,Bijelo Polje,0.0
+Montenegro,Ulcinj,0.0
+Morocco,Meknes,2.0
+Myanmar,Mandalay,35.0
+Myanmar,Lashio,24.0
+Myanmar,Dawei,23.0
+Myanmar,Yangon,2.0
+Myanmar,Sittwe,1.0
+Namibia,Oshakati,97.0
+Nepal,Kathmandu,208.0
+Nepal,Pokhara,42.0
+Nepal,Biratnagar,10.0
+Nepal,Siraha,9.0
+Nepal,Nepalgunj,8.0
+Netherlands,The Hague,20.0
+Netherlands,Amsterdam,14.0
+Netherlands,Assen,8.0
+Netherlands,Glimmen,6.0
+Netherlands,Roermond,5.0
+New Zealand,Christchurch,100.0
+New Zealand,Auckland,9.0
+New Zealand,Wellington,0.0
+Nicaragua,Managua,12.0
+Nicaragua,Corinto,10.0
+Nigeria,Madagali,234.0
+Nigeria,Mubi,231.0
+Nigeria,Monguno,162.0
+Nigeria,Kajuru,141.0
+Nigeria,Dapchi,113.0
+Norway,Oslo,29.0
+Norway,Lillehammer,1.0
+Pakistan,Peshawar,2440.0
+Pakistan,Quetta,2245.0
+Pakistan,Karachi,1820.0
+Pakistan,Lahore,1226.0
+Pakistan,Islamabad,1054.0
+Paraguay,Pedro Juan Caballero,0.0
+Peru,Lima,420.0
+Peru,Satipo,17.0
+Peru,Andahuaylas,11.0
+Peru,Saposoa,3.0
+Peru,Huancayo,2.0
+Philippines,Zamboanga,674.0
+Philippines,Manila,652.0
+Philippines,Davao,476.0
+Philippines,Jolo,308.0
+Philippines,Makati,167.0
+Poland,Jenin,10.0
+Poland,Warsaw,4.0
+Poland,Kraków,3.0
+Poland,Piaseczno,1.0
+Portugal,Lisbon,20.0
+Portugal,Albufeira,1.0
+Russia,Moscow,1911.0
+Russia,Beslan,1058.0
+Russia,Vladikavkaz,421.0
+Russia,Makhachkala,409.0
+Russia,Buinsk,236.0
+Rwanda,Kigali,23.0
+Rwanda,Butare,7.0
+Saudi Arabia,Mecca,595.0
+Saudi Arabia,Khobar,571.0
+Saudi Arabia,Dhahran,521.0
+Saudi Arabia,Riyadh,426.0
+Saudi Arabia,Arar,63.0
+Serbia,Prokuplje,18.0
+Serbia,Jagodina,1.0
+Serbia,Leskovac,0.0
+Serbia,Novi Pazar,0.0
+Serbia,Rajince,0.0
+Sierra Leone,Segbwema,8.0
+Sierra Leone,Freetown,0.0
+Sierra Leone,Kambia,0.0
+Slovakia,Bratislava,2.0
+Slovenia,Ljubljana,0.0
+Somalia,Mogadishu,3017.0
+Somalia,Baidoa,122.0
+Somalia,Kismayo,82.0
+Somalia,Afgooye,29.0
+Somalia,Beledweyne,26.0
+South Africa,Pretoria,268.0
+South Africa,Cape Town,212.0
+South Africa,Johannesburg,137.0
+South Africa,Durban,36.0
+South Africa,Bethlehem,28.0
+Spain,Madrid,888.0
+Spain,Barcelona,385.0
+Spain,Zaragoza,143.0
+Spain,Burgos,65.0
+Spain,Vic,53.0
+Sri Lanka,Colombo,3520.0
+Sri Lanka,Anuradhapura,341.0
+Sri Lanka,Jaffna,235.0
+Sri Lanka,Batticaloa,234.0
+Sri Lanka,Vavuniya,171.0
+Suriname,Paramaribo,1.0
+Swaziland,Mbabane,14.0
+Swaziland,Manzini,2.0
+Sweden,Stockholm,56.0
+Sweden,Nacka,2.0
+Sweden,Sundbyberg,0.0
+Switzerland,Lausanne,20.0
+Switzerland,Genève,18.0
+Switzerland,Zürich,16.0
+Switzerland,Bern,9.0
+Switzerland,Basel,3.0
+Syria,Damascus,1967.0
+Syria,Aleppo,731.0
+Syria,Deir ez-Zor,300.0
+Syria,Homs,157.0
+Syria,Idlib,100.0
+Taiwan,Taipei,25.0
+Taiwan,Kaohsiung,5.0
+Tajikistan,Danghara,6.0
+Tajikistan,Tursunzoda,5.0
+Tanzania,Dar es Salaam,88.0
+Tanzania,Zanzibar,0.0
+Thailand,Bangkok,264.0
+Thailand,Hat Yai,63.0
+Thailand,Betong,53.0
+Thailand,Hua Hin,29.0
+Thailand,Yaring,11.0
+Tunisia,Tunis,6.0
+Turkey,Istanbul,2531.0
+Turkey,Ankara,394.0
+Turkey,Gaziantep,223.0
+Turkey,Sivas,90.0
+Turkey,Kayseri,69.0
+Uganda,Lira,424.0
+Uganda,Kampala,172.0
+Uganda,Gulu,99.0
+Uganda,Masaka,36.0
+Uganda,Adjumani,35.0
+Ukraine,Brovary,8.0
+Ukraine,Yevpatoriya,3.0
+Ukraine,Odessa,2.0
+Ukraine,Yalta,2.0
+Ukraine,Donetsk,0.0
+United Arab Emirates,Dubai,4.0
+United Kingdom,London,2183.0
+United Kingdom,Belfast,898.0
+United Kingdom,Lockerbie,275.0
+United Kingdom,Newry,111.0
+United Kingdom,Enniskillen,92.0
+United States,New York City,6354.0
+United States,The Dalles,751.0
+United States,Oklahoma City,668.0
+United States,Hebron,399.0
+United States,Atlanta,117.0
+Uruguay,Montevideo,9.0
+Uzbekistan,Bekobod,0.0
+Venezuela,Caracas,80.0
+Venezuela,La Victoria,3.0
+Venezuela,Coro,1.0
+Venezuela,Cabudare,0.0
+Venezuela,Los Teques,0.0
+Vietnam,Ho Chi Minh City,0.0
+Yemen,Aden,698.0
+Yemen,Mukalla,187.0
+Yemen,Sanaa,142.0
+Yemen,Ma'rib,4.0
+Yemen,Medghal,2.0
+Zambia,Lusaka,11.0
+Zambia,Livingstone,7.0
+Zimbabwe,Bulawayo,54.0
+Zimbabwe,Harare,23.0
+Zimbabwe,Kariba,1.0
+Zimbabwe,Mutare,0.0
+Zimbabwe,Penhalonga,0.0

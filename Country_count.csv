@@ -1,0 +1,621 @@
+COUNTRY,CATEGORY,Category_count
+Afghanistan,Assault,330
+Afghanistan,"Assault,Explosion",31
+Afghanistan,"Assault,Explosion,Hostage",2
+Afghanistan,"Assault,Hostage",20
+Afghanistan,Explosion,693
+Afghanistan,"Explosion,Accident",3
+Afghanistan,"Explosion,Hostage",3
+Afghanistan,Hostage,79
+Albania,Assault,1
+Albania,"Assault,Explosion",1
+Albania,Explosion,41
+Albania,Hostage,1
+Algeria,Assault,25
+Algeria,"Assault,Explosion",4
+Algeria,"Assault,Hostage",2
+Algeria,Explosion,179
+Algeria,"Explosion,Accident",1
+Algeria,Hostage,13
+Angola,Assault,5
+Angola,"Assault,Explosion",3
+Angola,"Assault,Hostage",1
+Angola,Explosion,10
+Angola,Hostage,30
+Argentina,Assault,22
+Argentina,"Assault,Accident",1
+Argentina,"Assault,Explosion",8
+Argentina,"Assault,Hostage",3
+Argentina,Explosion,102
+Argentina,Hostage,17
+Armenia,Assault,4
+Armenia,"Assault,Hostage",1
+Armenia,Explosion,3
+Armenia,Hostage,1
+Australia,Assault,9
+Australia,"Assault,Explosion",2
+Australia,"Assault,Hostage",6
+Australia,Explosion,26
+Australia,Hostage,3
+Austria,Assault,9
+Austria,"Assault,Explosion",2
+Austria,"Assault,Explosion,Hostage",1
+Austria,"Assault,Hostage",2
+Austria,Explosion,32
+Austria,Hostage,5
+Azerbaijan,Assault,1
+Azerbaijan,Explosion,7
+Azores,Explosion,1
+Bahamas,Assault,1
+Bahrain,Assault,2
+Bahrain,"Assault,Explosion",1
+Bahrain,Explosion,8
+Bangladesh,Assault,12
+Bangladesh,"Assault,Explosion",2
+Bangladesh,"Assault,Hostage",1
+Bangladesh,Explosion,87
+Bangladesh,Hostage,3
+Barbados,Explosion,2
+Belarus,Explosion,2
+Belgium,Assault,11
+Belgium,"Assault,Explosion",2
+Belgium,"Assault,Hostage",1
+Belgium,Explosion,64
+Belgium,Hostage,1
+Belize,Hostage,1
+Benin,Explosion,1
+Bhutan,Explosion,7
+Bolivia,"Assault,Hostage",2
+Bolivia,Explosion,56
+Bolivia,Hostage,3
+Bosnia & Herzegovina,Assault,3
+Bosnia & Herzegovina,Explosion,27
+Bosnia & Herzegovina,Hostage,4
+Bosnia and Herzegovina,Assault,4
+Bosnia and Herzegovina,"Assault,Explosion",1
+Bosnia and Herzegovina,Explosion,53
+Bosnia and Herzegovina,Hostage,2
+Botswana,Explosion,3
+Brazil,Assault,5
+Brazil,"Assault,Hostage",3
+Brazil,Explosion,21
+Brazil,Hostage,7
+Bulgaria,Assault,2
+Bulgaria,Explosion,11
+Burkina Faso,Assault,3
+Burkina Faso,"Assault,Hostage",1
+Burkina Faso,Explosion,1
+Burundi,Assault,2
+Burundi,"Assault,Explosion",1
+Burundi,Explosion,2
+Burundi,Hostage,1
+Cambodia,Assault,4
+Cambodia,Explosion,24
+Cambodia,"Explosion,Hostage",1
+Cambodia,Hostage,7
+Cameroon,Assault,2
+Cameroon,"Assault,Explosion",1
+Cameroon,Explosion,6
+Cameroon,Hostage,1
+Canada,Assault,7
+Canada,"Assault,Explosion,Hostage",1
+Canada,Explosion,12
+Canada,Hostage,2
+Chad,Explosion,3
+Chad,Hostage,3
+Chechen Republic,Assault,8
+Chechen Republic,"Assault,Explosion",4
+Chechen Republic,"Assault,Hostage",3
+Chechen Republic,Explosion,44
+Chechen Republic,"Explosion,Hostage",1
+Chechen Republic,Hostage,1
+Chile,Assault,14
+Chile,"Assault,Explosion",6
+Chile,"Assault,Hostage",2
+Chile,Explosion,160
+China,Assault,5
+China,"Assault,Explosion",1
+China,Explosion,21
+Colombia,Accident,1
+Colombia,Assault,79
+Colombia,"Assault,Explosion",15
+Colombia,"Assault,Hostage",14
+Colombia,Explosion,573
+Colombia,"Explosion,Accident",1
+Colombia,"Explosion,Hostage",11
+Colombia,Hostage,272
+Congo,Assault,1
+Congo,Explosion,1
+Congo,Hostage,2
+Costa Rica,Assault,5
+Costa Rica,"Assault,Explosion",1
+Costa Rica,"Assault,Hostage",3
+Costa Rica,Explosion,18
+Costa Rica,Hostage,3
+Cote D'Ivoire (Ivory Coast),Assault,1
+Cote D'Ivoire (Ivory Coast),Explosion,1
+Croatia,Assault,1
+Croatia,"Assault,Explosion",1
+Croatia,Explosion,19
+Croatia,Hostage,1
+Cuba,Assault,1
+Cuba,"Assault,Explosion,Hostage",1
+Cuba,"Assault,Hostage",1
+Cuba,Explosion,7
+Cyprus,Assault,5
+Cyprus,"Assault,Explosion",3
+Cyprus,"Assault,Explosion,Hostage",1
+Cyprus,Explosion,37
+Cyprus,Hostage,3
+Czech Republic,Explosion,6
+Dagestan,Explosion,1
+Democratic Republic of the Congo,Explosion,2
+Denmark,Assault,2
+Denmark,Explosion,12
+Djibouti,Explosion,1
+Djibouti,Hostage,1
+Dominican Republic,Assault,1
+Dominican Republic,"Assault,Hostage",2
+Dominican Republic,Explosion,13
+Dominican Republic,Hostage,2
+East Timor,Assault,3
+East Timor,Explosion,1
+Ecuador,Assault,3
+Ecuador,"Assault,Accident",1
+Ecuador,"Assault,Explosion",2
+Ecuador,Explosion,49
+Ecuador,Hostage,5
+Egypt,Assault,37
+Egypt,"Assault,Explosion",5
+Egypt,"Assault,Hostage",1
+Egypt,Explosion,48
+Egypt,"Explosion,Accident",1
+Egypt,Hostage,1
+El Salvador,Assault,28
+El Salvador,"Assault,Explosion",7
+El Salvador,"Assault,Hostage",5
+El Salvador,"Assault,Hostage,Accident",1
+El Salvador,Explosion,32
+El Salvador,Hostage,22
+Eritrea,Assault,1
+Eritrea,Explosion,3
+Estonia,Assault,1
+Estonia,Explosion,5
+Ethiopia,Assault,4
+Ethiopia,"Assault,Explosion,Hostage",1
+Ethiopia,Explosion,30
+Ethiopia,Hostage,24
+Falkland Islands,Explosion,1
+Fiji Islands,Explosion,1
+Finland,Assault,1
+Finland,Explosion,1
+France,Accident,2
+France,Assault,77
+France,"Assault,Explosion",27
+France,"Assault,Explosion,Accident",1
+France,"Assault,Explosion,Hostage",5
+France,"Assault,Hostage",5
+France,Explosion,723
+France,"Explosion,Hostage",6
+France,Hostage,6
+French Polynesia,Assault,1
+Gaza,Assault,553
+Gaza,"Assault,Explosion",41
+Gaza,"Assault,Explosion,Accident",3
+Gaza,"Assault,Explosion,Hostage",1
+Gaza,"Assault,Hostage",12
+Gaza,Explosion,168
+Gaza,"Explosion,Accident",4
+Gaza,"Explosion,Hostage",1
+Gaza,Hostage,10
+Georgia,Assault,7
+Georgia,"Assault,Explosion",5
+Georgia,"Assault,Hostage",3
+Georgia,Explosion,52
+Georgia,Hostage,6
+Germany,Assault,23
+Germany,"Assault,Explosion",3
+Germany,"Assault,Explosion,Hostage",1
+Germany,"Assault,Hostage",5
+Germany,Explosion,215
+Germany,"Explosion,Hostage",2
+Germany,Hostage,5
+Ghana,Explosion,1
+Gibraltar,Explosion,1
+Greece,Accident,3
+Greece,Assault,28
+Greece,"Assault,Explosion",9
+Greece,"Assault,Explosion,Hostage",2
+Greece,"Assault,Hostage",1
+Greece,Explosion,360
+Greece,"Explosion,Accident",3
+Greece,"Explosion,Hostage",3
+Greece,Hostage,3
+Guadeloupe,Explosion,2
+Guatemala,Assault,16
+Guatemala,"Assault,Explosion",1
+Guatemala,"Assault,Hostage",9
+Guatemala,Explosion,35
+Guatemala,Hostage,18
+Guinea,Hostage,1
+Guyana,Explosion,4
+Haiti,Assault,4
+Haiti,Explosion,13
+Haiti,Hostage,1
+Honduras,Assault,7
+Honduras,"Assault,Explosion",3
+Honduras,"Assault,Explosion,Hostage",1
+Honduras,"Assault,Hostage",1
+Honduras,Explosion,36
+Honduras,Hostage,5
+Hungary,Assault,1
+Hungary,Explosion,6
+Iceland,Explosion,1
+India,Assault,296
+India,"Assault,Explosion",43
+India,"Assault,Explosion,Hostage",2
+India,"Assault,Hostage",20
+India,Explosion,589
+India,"Explosion,Accident",2
+India,"Explosion,Hostage",5
+India,Hostage,66
+Indonesia,Assault,27
+Indonesia,"Assault,Explosion",7
+Indonesia,Explosion,135
+Indonesia,Hostage,8
+Iran,Assault,28
+Iran,"Assault,Explosion",6
+Iran,"Assault,Hostage",2
+Iran,Explosion,67
+Iran,Hostage,6
+Iraq,Assault,1165
+Iraq,"Assault,Accident",1
+Iraq,"Assault,Explosion",150
+Iraq,"Assault,Explosion,Hostage",6
+Iraq,"Assault,Hostage",154
+Iraq,Explosion,2252
+Iraq,"Explosion,Accident",5
+Iraq,"Explosion,Hostage",7
+Iraq,Hostage,162
+Ireland,"Assault,Explosion",1
+Ireland,Explosion,23
+Ireland,Hostage,2
+Israel,Assault,504
+Israel,"Assault,Explosion",54
+Israel,"Assault,Explosion,Hostage",1
+Israel,"Assault,Hostage",5
+Israel,Explosion,414
+Israel,"Explosion,Accident",2
+Israel,"Explosion,Hostage",3
+Israel,Hostage,22
+Italy,Assault,19
+Italy,"Assault,Explosion",14
+Italy,"Assault,Hostage",2
+Italy,Explosion,230
+Italy,"Explosion,Hostage",1
+Italy,Hostage,6
+Jamaica,Assault,1
+Jamaica,Explosion,4
+Japan,Assault,9
+Japan,"Assault,Explosion",7
+Japan,Explosion,43
+Japan,"Explosion,Accident",1
+Japan,Hostage,4
+Jordan,Assault,17
+Jordan,"Assault,Explosion",3
+Jordan,"Assault,Explosion,Hostage",1
+Jordan,Explosion,27
+Jordan,Hostage,4
+Kazakhstan,Assault,1
+Kazakhstan,Explosion,6
+Kenya,Assault,1
+Kenya,"Assault,Explosion",3
+Kenya,"Assault,Explosion,Hostage",1
+Kenya,Explosion,6
+Kenya,Hostage,1
+Kosovo,Assault,23
+Kosovo,"Assault,Explosion",5
+Kosovo,"Assault,Hostage",1
+Kosovo,Explosion,64
+Kosovo,Hostage,9
+Kuwait,Assault,8
+Kuwait,"Assault,Explosion",1
+Kuwait,Explosion,18
+Kuwait,Hostage,4
+Kyrgyzstan,Explosion,9
+Laos,Explosion,11
+Laos,"Explosion,Accident",1
+Laos,Hostage,1
+Latvia,Explosion,7
+Lebanon,Assault,79
+Lebanon,"Assault,Explosion",18
+Lebanon,"Assault,Explosion,Hostage",4
+Lebanon,"Assault,Hostage",37
+Lebanon,"Assault,Hostage,Accident",1
+Lebanon,Explosion,272
+Lebanon,"Explosion,Accident",1
+Lebanon,"Explosion,Hostage",6
+Lebanon,Hostage,69
+Lesotho,Explosion,1
+Liberia,"Assault,Hostage",1
+Liberia,Hostage,2
+Libya,Assault,2
+Libya,Explosion,6
+Libya,Hostage,1
+Lithuania,Assault,1
+Lithuania,Explosion,5
+Luxembourg,Explosion,2
+Macedonia,"Assault,Hostage",1
+Macedonia,Explosion,47
+Macedonia,"Explosion,Hostage",1
+Macedonia,Hostage,1
+Madagascar,Explosion,4
+Madagascar,Hostage,1
+Malaysia,Assault,4
+Malaysia,"Assault,Explosion,Hostage",1
+Malaysia,"Assault,Hostage",1
+Malaysia,Explosion,6
+Malaysia,Hostage,2
+Maldives,Explosion,1
+Mali,Assault,4
+Mali,"Assault,Explosion",1
+Mali,Explosion,2
+Mali,Hostage,1
+Malta,Assault,2
+Malta,Explosion,7
+Mauritania,Assault,3
+Mauritania,Explosion,1
+Mauritania,Hostage,3
+Mexico,Assault,6
+Mexico,"Assault,Explosion",1
+Mexico,"Assault,Hostage",1
+Mexico,Explosion,33
+Mexico,Hostage,6
+Moldova,Assault,1
+Moldova,Explosion,5
+Mongolia,Assault,1
+Montenegro,Assault,1
+Montenegro,Explosion,9
+Morocco,Assault,3
+Morocco,"Assault,Hostage",1
+Morocco,Explosion,10
+Mozambique,Explosion,4
+Mozambique,Hostage,18
+Myanmar,"Assault,Explosion",1
+Myanmar,"Assault,Explosion,Hostage",1
+Myanmar,Explosion,38
+Myanmar,Hostage,2
+Namibia,Explosion,3
+Nepal,Assault,16
+Nepal,"Assault,Explosion",13
+Nepal,"Assault,Hostage",2
+Nepal,Explosion,184
+Nepal,"Explosion,Accident",1
+Nepal,"Explosion,Hostage",1
+Nepal,Hostage,34
+Netherlands,Assault,11
+Netherlands,"Assault,Explosion",1
+Netherlands,"Assault,Hostage",2
+Netherlands,Explosion,33
+Netherlands,"Explosion,Accident",1
+Netherlands,"Explosion,Hostage",3
+Netherlands,Hostage,8
+New Caledonia,Hostage,1
+New Zealand,Assault,1
+New Zealand,Explosion,4
+Nicaragua,Assault,3
+Nicaragua,"Assault,Hostage",1
+Nicaragua,Explosion,9
+Nicaragua,"Explosion,Hostage",1
+Nicaragua,Hostage,8
+Niger,Assault,2
+Niger,"Assault,Hostage",1
+Niger,Explosion,1
+Niger,"Explosion,Hostage",1
+Niger,Hostage,1
+Nigeria,Assault,16
+Nigeria,"Assault,Explosion",1
+Nigeria,"Assault,Hostage",12
+Nigeria,Explosion,18
+Nigeria,Hostage,23
+Norway,Assault,3
+Norway,Explosion,6
+Oman,Explosion,1
+Pakistan,Assault,128
+Pakistan,"Assault,Explosion",33
+Pakistan,"Assault,Explosion,Accident",1
+Pakistan,"Assault,Hostage",12
+Pakistan,Explosion,689
+Pakistan,"Explosion,Accident",1
+Pakistan,"Explosion,Hostage",3
+Pakistan,Hostage,22
+Panama,Assault,1
+Panama,"Assault,Explosion",1
+Panama,Explosion,11
+Panama,Hostage,2
+Papua-New Guinea,Hostage,1
+Paraguay,Assault,4
+Paraguay,Explosion,3
+Paraguay,Hostage,1
+Peru,Assault,27
+Peru,"Assault,Explosion",1
+Peru,"Assault,Hostage",1
+Peru,Explosion,156
+Peru,"Explosion,Hostage",1
+Peru,Hostage,11
+Philippines,Accident,1
+Philippines,Assault,51
+Philippines,"Assault,Explosion",17
+Philippines,"Assault,Hostage",13
+Philippines,Explosion,243
+Philippines,"Explosion,Accident",2
+Philippines,"Explosion,Hostage",8
+Philippines,Hostage,44
+Philliphines,Explosion,1
+Poland,Assault,10
+Poland,"Assault,Hostage",1
+Poland,Explosion,12
+Portugal,Assault,4
+Portugal,"Assault,Explosion",1
+Portugal,Explosion,29
+Portugal,Hostage,1
+Puerto Rico,Assault,1
+Puerto Rico,Explosion,19
+Puerto Rico,Hostage,1
+Qatar,Explosion,2
+Romania,Assault,2
+Romania,Explosion,1
+Russia,Assault,96
+Russia,"Assault,Explosion",42
+Russia,"Assault,Explosion,Hostage",4
+Russia,"Assault,Hostage",4
+Russia,Explosion,426
+Russia,"Explosion,Accident",2
+Russia,"Explosion,Hostage",8
+Russia,Hostage,28
+Rwanda,Explosion,1
+Saudi Arabia,Assault,15
+Saudi Arabia,"Assault,Explosion",1
+Saudi Arabia,"Assault,Explosion,Hostage",2
+Saudi Arabia,Explosion,35
+Saudi Arabia,Hostage,3
+Serbia,Assault,5
+Serbia,Explosion,64
+Serbia,Hostage,1
+Sierra Leone,Assault,1
+Sierra Leone,Hostage,15
+Singapore,Explosion,4
+Singapore,Hostage,1
+Slovakia,Assault,1
+Slovakia,"Assault,Explosion",1
+Slovakia,Explosion,6
+Slovenia,Explosion,1
+Somalia,Assault,92
+Somalia,"Assault,Explosion",20
+Somalia,"Assault,Explosion,Hostage",1
+Somalia,"Assault,Hostage",15
+Somalia,Explosion,120
+Somalia,"Explosion,Accident",1
+Somalia,"Explosion,Hostage",1
+Somalia,Hostage,14
+South Africa,Assault,11
+South Africa,"Assault,Explosion",1
+South Africa,Explosion,46
+South Africa,Hostage,3
+South Korea,"Assault,Explosion",2
+South Korea,Explosion,23
+South Korea,"Explosion,Accident",1
+Spain,Accident,1
+Spain,Assault,27
+Spain,"Assault,Accident",1
+Spain,"Assault,Explosion",24
+Spain,"Assault,Hostage",1
+Spain,Explosion,625
+Spain,"Explosion,Hostage",1
+Spain,Hostage,7
+Sri Lanka,Assault,51
+Sri Lanka,"Assault,Accident",1
+Sri Lanka,"Assault,Explosion",10
+Sri Lanka,Explosion,180
+Sri Lanka,Hostage,14
+Sudan,Accident,1
+Sudan,Assault,6
+Sudan,"Assault,Explosion",1
+Sudan,"Assault,Hostage",1
+Sudan,Explosion,7
+Sudan,Hostage,13
+Suriname,Explosion,1
+Swaziland,Assault,1
+Swaziland,Explosion,3
+Sweden,Assault,3
+Sweden,"Assault,Explosion,Hostage",1
+Sweden,Explosion,21
+Sweden,Hostage,1
+Switzerland,Assault,4
+Switzerland,"Assault,Explosion",2
+Switzerland,"Assault,Explosion,Hostage",1
+Switzerland,"Assault,Hostage",1
+Switzerland,Explosion,48
+Switzerland,"Explosion,Hostage",1
+Switzerland,Hostage,1
+Syria,Assault,2
+Syria,"Assault,Explosion",2
+Syria,"Assault,Explosion,Hostage",1
+Syria,Explosion,40
+Syria,"Explosion,Accident",1
+Syria,Hostage,3
+Taiwan,Explosion,3
+Tajikistan,Assault,9
+Tajikistan,"Assault,Explosion",1
+Tajikistan,Explosion,20
+Tajikistan,Hostage,9
+Tanzania,"Assault,Explosion",1
+Tanzania,"Assault,Hostage",1
+Tanzania,Explosion,4
+Thailand,Assault,142
+Thailand,"Assault,Explosion",528
+Thailand,"Assault,Explosion,Hostage",1
+Thailand,"Assault,Hostage",2
+Thailand,Explosion,210
+Thailand,"Explosion,Accident",1
+Thailand,Hostage,5
+Togo,Explosion,3
+Tunisia,Assault,1
+Tunisia,Explosion,4
+Tunisia,"Explosion,Hostage",2
+Turkey,Assault,94
+Turkey,"Assault,Explosion",29
+Turkey,"Assault,Explosion,Hostage",2
+Turkey,"Assault,Hostage",9
+Turkey,Explosion,652
+Turkey,"Explosion,Accident",1
+Turkey,"Explosion,Hostage",1
+Turkey,Hostage,34
+Turkmenistan,Assault,1
+Uganda,Assault,5
+Uganda,"Assault,Explosion",1
+Uganda,Explosion,20
+Uganda,Hostage,7
+Ukraine,Assault,1
+Ukraine,"Assault,Explosion",1
+Ukraine,"Assault,Explosion,Hostage",1
+Ukraine,Explosion,17
+United Arab Emirates,Assault,2
+United Arab Emirates,"Assault,Hostage",1
+United Arab Emirates,Explosion,7
+United Kingdom,Assault,105
+United Kingdom,"Assault,Explosion",24
+United Kingdom,"Assault,Hostage",3
+United Kingdom,Explosion,590
+United Kingdom,Hostage,6
+United States,Assault,89
+United States,"Assault,Explosion",10
+United States,"Assault,Hostage",9
+United States,Explosion,308
+United States,"Explosion,Accident",2
+United States,"Explosion,Hostage",3
+United States,Hostage,7
+Uruguay,Assault,2
+Uruguay,"Assault,Explosion",2
+Uruguay,Explosion,7
+Uruguay,Hostage,11
+Uzbekistan,Explosion,8
+Venezuela,Assault,8
+Venezuela,"Assault,Explosion",1
+Venezuela,"Assault,Hostage",2
+Venezuela,Explosion,78
+Venezuela,Hostage,12
+Vietnam,Assault,1
+Vietnam,Explosion,2
+Yemen,Assault,10
+Yemen,"Assault,Explosion",10
+Yemen,"Assault,Hostage",2
+Yemen,Explosion,69
+Yemen,Hostage,31
+Zaire,Hostage,1
+Zambia,Explosion,8
+Zimbabwe,Assault,6
+Zimbabwe,"Assault,Hostage",3
+Zimbabwe,Explosion,8
+Zimbabwe,"Explosion,Accident",1
+Zimbabwe,Hostage,1

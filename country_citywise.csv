@@ -1,0 +1,1805 @@
+COUNTRY,CITY,total_damage
+Afghanistan,Kunduz,211.0
+Afghanistan,Kabul,60.0
+Afghanistan,Zaranj,59.0
+Afghanistan,Gardez,27.0
+Afghanistan,Charikar,26.0
+Afghanistan,Asadabad,6.0
+Afghanistan,Maymana,6.0
+Afghanistan,Taloqan,5.0
+Afghanistan,Gereshk,2.0
+Afghanistan,Baraki Barak,0.0
+Albania,Bajram Curri,4.0
+Albania,Tirana,3.0
+Albania,Fier,1.0
+Algeria,Lakhdaria,71.0
+Algeria,Boufarik,66.0
+Algeria,Birkhadem,44.0
+Algeria,Khemis Miliana,42.0
+Algeria,Dellys,36.0
+Algeria,Baraki,25.0
+Algeria,Naciria,24.0
+Algeria,Hadjout,20.0
+Algeria,Berrouaghia,10.0
+Algeria,Thenia,2.0
+Algeria,Rouiba,1.0
+Angola,Luanda,428.0
+Angola,Huambo,230.0
+Angola,Lucapa,20.0
+Angola,Sumbe,6.0
+Angola,Cabinda,5.0
+Argentina,Buenos Aires,1227.0
+Argentina,Formosa,47.0
+Argentina,Rosario,41.0
+Argentina,Avellaneda,0.0
+Argentina,Clorinda,0.0
+Argentina,Comodoro Rivadavia,0.0
+Argentina,Salta,0.0
+Argentina,San Justo,0.0
+Argentina,Santa Fe,0.0
+Argentina,Trelew,0.0
+Armenia,Bagratashen,58.0
+Australia,Melbourne,29.0
+Australia,Sydney,29.0
+Australia,City,27.0
+Australia,Brighton,4.0
+Australia,Brisbane,1.0
+Australia,Canberra,0.0
+Australia,Darwin,0.0
+Australia,Perth,0.0
+Austria,Vienna,143.0
+Austria,Linz,7.0
+Austria,Graz,1.0
+Austria,Klagenfurt,0.0
+Bahrain,Manama,20.0
+Bangladesh,Dhaka,644.0
+Bangladesh,Sylhet,166.0
+Bangladesh,Jessore,160.0
+Bangladesh,Narayanganj,131.0
+Bangladesh,Gazipur,121.0
+Bangladesh,Khulna,78.0
+Bangladesh,Brahmanbaria,53.0
+Bangladesh,Netrakona,53.0
+Bangladesh,Bogra,41.0
+Bangladesh,Satkhira,37.0
+Bangladesh,Chuadanga,22.0
+Bangladesh,Naogaon,22.0
+Bangladesh,Chittagong,18.0
+Bangladesh,Tangail,15.0
+Bangladesh,Rajshahi,9.0
+Bangladesh,Kushtia,7.0
+Bangladesh,Bhola,6.0
+Bangladesh,Meherpur,6.0
+Bangladesh,Narail,4.0
+Bangladesh,Khagrachhari,3.0
+Bangladesh,Pabna,3.0
+Bangladesh,Sunamganj,3.0
+Bangladesh,Faridpur,1.0
+Bangladesh,Sherpur,0.0
+Barbados,Bridgetown,0.0
+Belgium,Brussels,452.0
+Belgium,Marche-en-Famenne,8.0
+Belgium,Charleroi,2.0
+Belgium,Ostend,1.0
+Belize,Belmopan,0.0
+Benin,Cotonou,3.0
+Bolivia,Oruro,62.0
+Bolivia,La Paz,37.0
+Bolivia,Caranavi,0.0
+Bolivia,Cochabamba,0.0
+Bolivia,Mizque,0.0
+Bolivia,Sucre,0.0
+Bolivia,Tarija,0.0
+Bosnia and Herzegovina,Sarajevo,337.0
+Bosnia and Herzegovina,Mostar,37.0
+Bosnia and Herzegovina,Vitez,6.0
+Bosnia and Herzegovina,Jajce,4.0
+Bosnia and Herzegovina,Bijeljina,2.0
+Bosnia and Herzegovina,Travnik,2.0
+Bosnia and Herzegovina,Zenica,2.0
+Bosnia and Herzegovina,Jablanica,1.0
+Bosnia and Herzegovina,Banja Luka,0.0
+Bosnia and Herzegovina,Bugojno,0.0
+Bosnia and Herzegovina,Doboj,0.0
+Bosnia and Herzegovina,Donja Mahala,0.0
+Bosnia and Herzegovina,Janja,0.0
+Bosnia and Herzegovina,Kakanj,0.0
+Bosnia and Herzegovina,Novi Grad,0.0
+Bosnia and Herzegovina,Novi Travnik,0.0
+Bosnia and Herzegovina,Pale,0.0
+Bosnia and Herzegovina,Polje,0.0
+Bosnia and Herzegovina,Prijedor,0.0
+Bosnia and Herzegovina,Prozor,0.0
+Bosnia and Herzegovina,Stolac,0.0
+Bosnia and Herzegovina,Trebinje,0.0
+Bosnia and Herzegovina,Tuzla,0.0
+Bosnia and Herzegovina,Zvornik,0.0
+Botswana,Gaborone,1.0
+Brazil,Rio de Janeiro,36.0
+Brazil,São Paulo,8.0
+Brazil,Porto Alegre,2.0
+Brazil,Altamira,1.0
+Brazil,Salvador,1.0
+Brazil,Fortaleza,0.0
+Brazil,Nova Tebas,0.0
+Brazil,Recife,0.0
+Brazil,Santos,0.0
+Bulgaria,Burgas,37.0
+Bulgaria,Pleven,1.0
+Bulgaria,Montana,0.0
+Bulgaria,Pernik,0.0
+Bulgaria,Plovdiv,0.0
+Bulgaria,Sofia,0.0
+Bulgaria,Svilengrad,0.0
+Burkina Faso,Ouagadougou,242.0
+Burundi,Bujumbura,18.0
+Burundi,Rutana,14.0
+Cambodia,Siem Reap,1.0
+Cambodia,Pursat,0.0
+Cameroon,Kumbo,1.0
+Canada,Montréal,366.0
+Canada,Toronto,13.0
+Canada,Ottawa,5.0
+Canada,Campbell River,1.0
+Canada,Vancouver,1.0
+Canada,Guelph,0.0
+Chad,Mao,0.0
+Chile,Santiago,88.0
+Chile,O'Higgins,12.0
+Chile,Osorno,1.0
+Chile,Puerto Montt,1.0
+Chile,Talcahuano,1.0
+Chile,Arica,0.0
+Chile,Florida,0.0
+Chile,Providencia,0.0
+Chile,Punta Arenas,0.0
+Chile,Quilicura,0.0
+Chile,Rancagua,0.0
+Chile,Talca,0.0
+Chile,Temuco,0.0
+Chile,Valdivia,0.0
+China,Chengdu,51.0
+China,Wuhan,50.0
+China,Kashgar,32.0
+China,Hotan,17.0
+China,Shenzhen,4.0
+China,Yinchuan,4.0
+China,Kangding,0.0
+China,Xiamen,0.0
+Colombia,Bogota,2051.0
+Colombia,Medellín,486.0
+Colombia,Cali,226.0
+Colombia,Florencia,171.0
+Colombia,Bojaya,130.0
+Colombia,Buenaventura,126.0
+Colombia,Soacha,126.0
+Colombia,Villavicencio,97.0
+Colombia,Neiva,94.0
+Colombia,Trujillo,80.0
+Colombia,Ituango,73.0
+Colombia,Barrancabermeja,56.0
+Colombia,Miraflores,45.0
+Colombia,Tierralta,32.0
+Colombia,Marinilla,30.0
+Colombia,Toledo,30.0
+Colombia,Chita,28.0
+Colombia,Cimitarra,28.0
+Colombia,San Rafael,28.0
+Colombia,Cachipay,23.0
+Colombia,Saravena,21.0
+Colombia,San Vicente,20.0
+Colombia,Cartagena,19.0
+Colombia,Miranda,19.0
+Colombia,El Paujil,18.0
+Colombia,Guapi,18.0
+Colombia,Puerto Rico,18.0
+Colombia,Barranquilla,16.0
+Colombia,San Carlos,16.0
+Colombia,Soledad,16.0
+Colombia,Falan,15.0
+Colombia,Rivera,14.0
+Colombia,San Pablo,14.0
+Colombia,Arauquita,13.0
+Colombia,Montebello,12.0
+Colombia,Samaniego,12.0
+Colombia,El Castillo,11.0
+Colombia,Itagui,11.0
+Colombia,Sardinata,11.0
+Colombia,Segovia,11.0
+Colombia,Caicedo,10.0
+Colombia,La Dorada,10.0
+Colombia,Ricaurte,10.0
+Colombia,Tame,10.0
+Colombia,Caloto,9.0
+Colombia,El Bagre,9.0
+Colombia,Pereira,9.0
+Colombia,San Pedro,9.0
+Colombia,Dolores,8.0
+Colombia,Envigado,8.0
+Colombia,Hobo,8.0
+Colombia,Orito,8.0
+Colombia,Ortega,8.0
+Colombia,Riosucio,8.0
+Colombia,San Miguel,8.0
+Colombia,Santa Marta,8.0
+Colombia,Yarumal,8.0
+Colombia,San Lorenzo,7.0
+Colombia,Valledupar,7.0
+Colombia,Campoalegre,6.0
+Colombia,Pasto,6.0
+Colombia,Yopal,6.0
+Colombia,Chaparral,5.0
+Colombia,El Tarra,5.0
+Colombia,Riohacha,5.0
+Colombia,San Luis,5.0
+Colombia,Toribio,5.0
+Colombia,Calamar,4.0
+Colombia,Chivor,4.0
+Colombia,La Vega,4.0
+Colombia,Mercaderes,4.0
+Colombia,Arboleda,3.0
+Colombia,Armenia,3.0
+Colombia,Berbeo,3.0
+Colombia,Cajamarca,3.0
+Colombia,Dosquebradas,3.0
+Colombia,Fortul,3.0
+Colombia,Granada,3.0
+Colombia,Ipiales,3.0
+Colombia,Linares,3.0
+Colombia,Maicao,3.0
+Colombia,Manizales,3.0
+Colombia,San Antonio,3.0
+Colombia,San Juan de Arama,3.0
+Colombia,Sogamoso,3.0
+Colombia,Aguadas,2.0
+Colombia,Carmen de Viboral,2.0
+Colombia,Cerro San Antonio,2.0
+Colombia,Chameza,2.0
+Colombia,Gigante,2.0
+Colombia,La Cumbre,2.0
+Colombia,Natagaima,2.0
+Colombia,Pradera,2.0
+Colombia,Pueblo Nuevo,2.0
+Colombia,Tumaco,2.0
+Colombia,Valdivia,2.0
+Colombia,Algeciras,1.0
+Colombia,Almaguer,1.0
+Colombia,Andes,1.0
+Colombia,Aracataca,1.0
+Colombia,Baraya,1.0
+Colombia,Bello,1.0
+Colombia,Campo de la Cruz,1.0
+Colombia,Cartago,1.0
+Colombia,Corinto,1.0
+Colombia,Duitama,1.0
+Colombia,El Carmen,1.0
+Colombia,El Tambo,1.0
+Colombia,Florida,1.0
+Colombia,Guamo,1.0
+Colombia,Hato,1.0
+Colombia,La Macarena,1.0
+Colombia,Malambo,1.0
+Colombia,Morales,1.0
+Colombia,Murillo,1.0
+Colombia,Ovejas,1.0
+Colombia,Palermo,1.0
+Colombia,Pijao,1.0
+Colombia,Pitalito,1.0
+Colombia,Puerto Triunfo,1.0
+Colombia,Sabana de Torres,1.0
+Colombia,Salamina,1.0
+Colombia,San Francisco,1.0
+Colombia,San Jacinto,1.0
+Colombia,Santa Rosa,1.0
+Colombia,Santo Domingo,1.0
+Colombia,Sonson,1.0
+Colombia,Tibacuy,1.0
+Colombia,Tres Esquinas,1.0
+Colombia,Turbaco,1.0
+Colombia,Turbo,1.0
+Colombia,Abejorral,0.0
+Colombia,Abrego,0.0
+Colombia,Aguachica,0.0
+Colombia,Aipe,0.0
+Colombia,Alpujarra,0.0
+Colombia,Amalfi,0.0
+Colombia,Anserma,0.0
+Colombia,Argelia,0.0
+Colombia,Atrato,0.0
+Colombia,Bucaramanga,0.0
+Colombia,Buenavista,0.0
+Colombia,Caldono,0.0
+Colombia,Caruru,0.0
+Colombia,Coyaima,0.0
+Colombia,Cunday,0.0
+Colombia,Dagua,0.0
+Colombia,El Doncello,0.0
+Colombia,El Molino,0.0
+Colombia,Guaduas,0.0
+Colombia,Guateque,0.0
+Colombia,Guayabal,0.0
+Colombia,Hispania,0.0
+Colombia,Isnos,0.0
+Colombia,La Sierra,0.0
+Colombia,La Tebaida,0.0
+Colombia,Labranzagrande,0.0
+Colombia,Los Palmitos,0.0
+Colombia,Manaure,0.0
+Colombia,Margarita,0.0
+Colombia,Mocoa,0.0
+Colombia,Montecristo,0.0
+Colombia,Paez,0.0
+Colombia,Pailitas,0.0
+Colombia,Pamplona,0.0
+Colombia,Plato,0.0
+Colombia,Puerto Libertador,0.0
+Colombia,Restrepo,0.0
+Colombia,Retiro,0.0
+Colombia,Rionegro,0.0
+Colombia,Sabanalarga,0.0
+Colombia,San Diego,0.0
+Colombia,San Juan del Cesar,0.0
+Colombia,Santa Rosa del Sur,0.0
+Colombia,Santander de Quilichao,0.0
+Colombia,Santiago,0.0
+Colombia,Silvia,0.0
+Colombia,Solano,0.0
+Colombia,Tangua,0.0
+Colombia,Tona,0.0
+Colombia,Urumita,0.0
+Colombia,Valle de San Juan,0.0
+Colombia,Villanueva,0.0
+Costa Rica,Heredia,1.0
+Cote D'Ivoire (Ivory Coast),Grand-Bassam,52.0
+Croatia,Rijeka,30.0
+Croatia,Petrinja,5.0
+Croatia,Vinkovci,2.0
+Croatia,Pula,1.0
+Croatia,Bibinje,0.0
+Croatia,Kutina,0.0
+Croatia,Makarska,0.0
+Croatia,Orahovica,0.0
+Croatia,Slavonski Brod,0.0
+Croatia,Zadar,0.0
+Cuba,Havana,5.0
+Cuba,Varadero,0.0
+Cyprus,Nicosia,39.0
+Cyprus,Limassol,11.0
+Cyprus,Larnaca,0.0
+Czech Republic,Ostrava,4.0
+Czech Republic,Prague,1.0
+Denmark,Copenhagen,40.0
+Denmark,Greve,0.0
+Dominican Republic,Santo Domingo,3.0
+Dominican Republic,Mella,0.0
+East Timor,Dili,2.0
+East Timor,Viqueque,2.0
+Ecuador,Quito,14.0
+Ecuador,Guayaquil,5.0
+Ecuador,Portoviejo,3.0
+Ecuador,Ambato,0.0
+Ecuador,Cuenca,0.0
+Ecuador,Loja,0.0
+Egypt,Cairo,440.0
+Egypt,Sharm el-Sheikh,206.0
+Egypt,Alexandria,159.0
+Egypt,Luxor,108.0
+Egypt,Dahab,106.0
+Egypt,Arish,15.0
+Egypt,Hurghada,13.0
+Egypt,Aswan,9.0
+Egypt,Giza,3.0
+Egypt,Port Said,3.0
+El Salvador,San Salvador,115.0
+El Salvador,San Miguel,6.0
+El Salvador,Chalchuapa,1.0
+El Salvador,San Marcos,0.0
+El Salvador,Suchitoto,0.0
+Eritrea,Barentu,53.0
+Eritrea,Teseney,15.0
+Eritrea,Asmara,2.0
+Estonia,Tallinn,4.0
+Ethiopia,Jijiga,83.0
+Ethiopia,Bishoftu,4.0
+Ethiopia,Axum,0.0
+Ethiopia,Korem,0.0
+Fiji Islands,Lautoka,0.0
+Finland,Turku,10.0
+France,Paris,2211.0
+France,Nice,561.0
+France,Marseille,89.0
+France,Lyon,46.0
+France,Borgo,29.0
+France,Ajaccio,23.0
+France,Carcassonne,19.0
+France,Cannes,18.0
+France,Strasbourg,18.0
+France,Alfortville,13.0
+France,Bayonne,13.0
+France,Hendaye,13.0
+France,Barr,9.0
+France,Saint-Jean-de-Luz,9.0
+France,Ghisonaccia,7.0
+France,Toulouse,7.0
+France,Bastia,5.0
+France,Biarritz,4.0
+France,Corte,3.0
+France,Villejuif,3.0
+France,Anglet,2.0
+France,Pau,2.0
+France,Aix-en-Provence,1.0
+France,Baule,1.0
+France,Bonifacio,1.0
+France,Callac,1.0
+France,Calvi,1.0
+France,Conflans-Sainte-Honorine,1.0
+France,Dinan,1.0
+France,Rennes,1.0
+France,Sare,1.0
+France,Versailles,1.0
+France,Afa,0.0
+France,Albitreccia,0.0
+France,Amiens,0.0
+France,Angers,0.0
+France,Annecy,0.0
+France,Arles,0.0
+France,Ascain,0.0
+France,Aubagne,0.0
+France,Auch,0.0
+France,Avignon,0.0
+France,Belfort,0.0
+France,Biguglia,0.0
+France,Bordeaux,0.0
+France,Cambo-les-Bains,0.0
+France,Cauro,0.0
+France,Cervione,0.0
+France,Ciboure,0.0
+France,Cintegabelle,0.0
+France,Clermont-Ferrand,0.0
+France,Clichy,0.0
+France,Espelette,0.0
+France,Furiani,0.0
+France,Gironde,0.0
+France,Gouarec,0.0
+France,Guichen,0.0
+France,Hasparren,0.0
+France,Haute-Savoie,0.0
+France,Itxassou,0.0
+France,La Ciotat,0.0
+France,La Seyne-sur-Mer,0.0
+France,Larressore,0.0
+France,Le Mans,0.0
+France,Levallois-Perret,0.0
+France,Lille,0.0
+France,Linguizzetta,0.0
+France,Lourdes,0.0
+France,Lucciana,0.0
+France,Lumio,0.0
+France,Manche,0.0
+France,Massy,0.0
+France,Matignon,0.0
+France,Mayenne,0.0
+France,Montpellier,0.0
+France,Morlaix,0.0
+France,Nanterre,0.0
+France,Nantes,0.0
+France,Narbonne,0.0
+France,Olmeto,0.0
+France,Paimpol,0.0
+France,Perpignan,0.0
+France,Pietrosella,0.0
+France,Pontorson,0.0
+France,Porto-Vecchio,0.0
+France,Propriano,0.0
+France,Saint-Florent,0.0
+France,Saint-Jean-Pied-de-Port,0.0
+France,Saint-Palais,0.0
+France,Sari-Solenzara,0.0
+France,Sergy,0.0
+France,Sisco,0.0
+France,Toulon,0.0
+France,Urrugne,0.0
+France,Ustaritz,0.0
+France,Vallauris,0.0
+France,Varennes-sur-Allier,0.0
+France,Ventiseri,0.0
+France,Vescovato,0.0
+France,Zonza,0.0
+Gabon,Libreville,2.0
+Georgia,Zugdidi,64.0
+Georgia,Gori,29.0
+Georgia,Gali,6.0
+Georgia,Kutaisi,0.0
+Germany,Munich,431.0
+Germany,Berlin,113.0
+Germany,Frankfurt am Main,77.0
+Germany,Saarlouis,20.0
+Germany,Eppstein,19.0
+Germany,Solingen,19.0
+Germany,Hamburg,14.0
+Germany,Ansbach,12.0
+Germany,Duisburg,9.0
+Germany,Karlsruhe,9.0
+Germany,Bonn,7.0
+Germany,Ulm,6.0
+Germany,Heidelberg,5.0
+Germany,Landsberg,4.0
+Germany,Dresden,3.0
+Germany,Konstanz,3.0
+Germany,Pulheim,3.0
+Germany,Erlangen,2.0
+Germany,Hemsbach,2.0
+Germany,Wittenberge,2.0
+Germany,Bielefeld,1.0
+Germany,Darmstadt,1.0
+Germany,Dortmund,1.0
+Germany,Homburg,1.0
+Germany,Kaiserslautern,1.0
+Germany,Kassel,1.0
+Germany,Mannheim,1.0
+Germany,Oberursel,1.0
+Germany,Unna,1.0
+Germany,Ahlen,0.0
+Germany,Bad Hersfeld,0.0
+Germany,Bad Oldesloe,0.0
+Germany,Bergen,0.0
+Germany,Cham,0.0
+Germany,Ditzingen,0.0
+Germany,Erbendorf,0.0
+Germany,Eschborn,0.0
+Germany,Freiburg,0.0
+Germany,Hamm,0.0
+Germany,Heilbronn,0.0
+Germany,Hude,0.0
+Germany,Kaltenkirchen,0.0
+Germany,Kiel,0.0
+Germany,Koblenz,0.0
+Germany,Lage,0.0
+Germany,Leipzig,0.0
+Germany,Leverkusen,0.0
+Germany,Mainz,0.0
+Germany,Minden,0.0
+Germany,Neustadt,0.0
+Germany,Nohfelden,0.0
+Germany,Oberammergau,0.0
+Germany,Oberhausen,0.0
+Germany,Offenbach,0.0
+Germany,Rostock,0.0
+Germany,Sindelfingen,0.0
+Germany,Stuttgart,0.0
+Germany,Wiesbaden,0.0
+Greece,Athens,384.0
+Greece,Piraeus,226.0
+Guatemala,Guatemala City,91.0
+Guatemala,Quetzaltenango,2.0
+Guatemala,Huehuetenango,1.0
+Guyana,Georgetown,9.0
+Haiti,Port-au-Prince,5.0
+Honduras,Tegucigalpa,34.0
+Honduras,La Ceiba,7.0
+Honduras,San Pedro Sula,6.0
+Honduras,Choluteca,1.0
+India,Mumbai,3317.0
+India,Srinagar,876.0
+India,Guwahati,841.0
+India,Bongaigaon,557.0
+India,Jammu,433.0
+India,Pulwama,303.0
+India,Coimbatore,265.0
+India,Delhi,241.0
+India,Hyderabad,234.0
+India,Anantnag,223.0
+India,Jaipur,210.0
+India,Ahmedabad,207.0
+India,Malegaon,199.0
+India,Doda,192.0
+India,New Delhi,183.0
+India,Jaunpur,112.0
+India,Agartala,111.0
+India,Imphal,98.0
+India,Bijapur,76.0
+India,Patna,71.0
+India,Kamrup,69.0
+India,Kulgam,68.0
+India,Kancheepuram,60.0
+India,Dimapur,50.0
+India,Udhampur,50.0
+India,Katra,49.0
+India,Uri,49.0
+India,Chamba,46.0
+India,Nalbari,43.0
+India,Kokrajhar,38.0
+India,Gadchiroli,36.0
+India,Cachar,35.0
+India,Karbi Anglong,35.0
+India,Bhatinda,31.0
+India,Dhubri,28.0
+India,Doraha,28.0
+India,Pathankot,28.0
+India,Banihal,27.0
+India,Dhemaji,25.0
+India,Parbhani,25.0
+India,Gandarbal,24.0
+India,Giridih,24.0
+India,Kanker,23.0
+India,Nalgonda,23.0
+India,Chennai,22.0
+India,Karimnagar,22.0
+India,Bokaro,19.0
+India,Punch,19.0
+India,Dispur,18.0
+India,Hiranagar,17.0
+India,Rajpur,17.0
+India,Bastar,16.0
+India,Gauripur,15.0
+India,Ghaziabad,15.0
+India,Barpeta,13.0
+India,Kupwara,13.0
+India,Rampur,13.0
+India,Agra,12.0
+India,Ayodhya,12.0
+India,Dhanbad,12.0
+India,Ganderbal,12.0
+India,Magam,12.0
+India,Udalguri,12.0
+India,Warangal,12.0
+India,Sonari,11.0
+India,Dibrugarh,10.0
+India,Guntur,10.0
+India,Moradabad,10.0
+India,Prakasam,10.0
+India,Gaya,9.0
+India,Hazaribagh,9.0
+India,Panipat,9.0
+India,Sundargarh,9.0
+India,Digboi,8.0
+India,Pattan,8.0
+India,Sibsagar,8.0
+India,Simdega,8.0
+India,Bishnupur,7.0
+India,Chatra,7.0
+India,Malkangiri,7.0
+India,Purna,7.0
+India,Tral,7.0
+India,Visakhapatnam,7.0
+India,Darrang,6.0
+India,Dhalai,6.0
+India,Khammam,6.0
+India,Purulia,6.0
+India,Ukhrul,6.0
+India,Aurangabad,5.0
+India,Jalna,5.0
+India,Jalpaiguri,5.0
+India,Patan,5.0
+India,Ranchi,5.0
+India,Thane,5.0
+India,Jamshedpur,4.0
+India,Kanpur,4.0
+India,Kohima,4.0
+India,Tamenglong,4.0
+India,West Tripura,4.0
+India,Amarpur,3.0
+India,Churachandpur,3.0
+India,Cuddapah,3.0
+India,Dhenkanal,3.0
+India,Goalpara,3.0
+India,Gumla,3.0
+India,Howrah,3.0
+India,Kandi,3.0
+India,Ramban,3.0
+India,Sankarpur,3.0
+India,Senapati,3.0
+India,Anantapur,2.0
+India,Badgam,2.0
+India,Chakulia,2.0
+India,Dhar,2.0
+India,Diphu,2.0
+India,Kolkata,2.0
+India,Muzaffarnagar,2.0
+India,Tirumala,2.0
+India,Adilabad,1.0
+India,Amritsar,1.0
+India,Bandipore,1.0
+India,Gajapati,1.0
+India,Golaghat,1.0
+India,Jangaon,1.0
+India,Jorhat,1.0
+India,Khowai,1.0
+India,Kozhikode,1.0
+India,Lucknow,1.0
+India,Mandi,1.0
+India,Modasa,1.0
+India,Nagar,1.0
+India,Peren,1.0
+India,Pune,1.0
+India,Qazigund,1.0
+India,Srikakulam,1.0
+India,Udaipur,1.0
+India,Virar,1.0
+India,Bharatpur,0.0
+India,Fatehpur,0.0
+India,Karimganj,0.0
+India,Khagaria,0.0
+India,Kurnool,0.0
+India,Latehar,0.0
+India,Morigaon,0.0
+India,Munger,0.0
+India,Nagpur,0.0
+India,Nashik,0.0
+India,Phek,0.0
+India,Thoubal,0.0
+India,Vadodara,0.0
+India,West Garo Hills,0.0
+Indonesia,Jakarta,2554.0
+Indonesia,Ternate,2002.0
+Indonesia,Ambon,233.0
+Indonesia,Sidoarjo,72.0
+Indonesia,Palu,63.0
+Indonesia,Banda Aceh,62.0
+Indonesia,Medan,48.0
+Indonesia,Makassar,25.0
+Indonesia,Poso,16.0
+Indonesia,Depok,10.0
+Indonesia,Bandar,9.0
+Indonesia,Pekanbaru,8.0
+Indonesia,Palopo,7.0
+Indonesia,Samarinda,5.0
+Indonesia,Lhokseumawe,3.0
+Indonesia,Semarang,3.0
+Indonesia,Bandung,2.0
+Indonesia,Surabaya,2.0
+Indonesia,Tangerang,2.0
+Indonesia,Barabai,1.0
+Indonesia,Balikpapan,0.0
+Indonesia,Batu,0.0
+Indonesia,Blitar,0.0
+Indonesia,Bogor,0.0
+Indonesia,Jayapura,0.0
+Indonesia,Magelang,0.0
+Indonesia,Manado,0.0
+Indonesia,Yogyakarta,0.0
+Iran,Abadan,403.0
+Iran,Ahvaz,248.0
+Iran,Tehran,216.0
+Iran,Chabahar,50.0
+Iran,Zahedan,38.0
+Iran,Kermanshah,6.0
+Iran,Sardasht,6.0
+Iran,Isfahan,3.0
+Iran,Mashhad,3.0
+Iran,Khorramshahr,2.0
+Iran,Karaj,1.0
+Iran,Kerman,1.0
+Iran,Qom,0.0
+Iran,Semnan,0.0
+Iran,Shiraz,0.0
+Iran,Tabriz,0.0
+Iraq,Baghdad,21283.0
+Iraq,Kirkuk,3418.0
+Iraq,Mosul,2916.0
+Iraq,Sinjar,2170.0
+Iraq,Karbala,1401.0
+Iraq,Balad,1339.0
+Iraq,Ramadi,949.0
+Iraq,Najaf,864.0
+Iraq,Arbil,360.0
+Iraq,Kufa,322.0
+Iraq,Nasiriyah,259.0
+Ireland,Dublin,359.0
+Ireland,Dundalk,31.0
+Ireland,Sligo,4.0
+Ireland,Limerick,2.0
+Ireland,Monaghan,0.0
+Israel,Jerusalem,3376.0
+Israel,Tel Aviv,2098.0
+Israel,Netanya,560.0
+Israel,Haifa,424.0
+Israel,Hadera,310.0
+Israel,Afula,190.0
+Israel,Beersheba,135.0
+Israel,Sederot,114.0
+Israel,Lod,110.0
+Israel,Safed,50.0
+Israel,Qiryat Shemona,46.0
+Israel,Tiberias,38.0
+Israel,Nahariyya,34.0
+Israel,Ashdod,29.0
+Israel,Eilat,21.0
+Israel,Herzliya,13.0
+Israel,Jaffa,12.0
+Israel,Or Yehuda,8.0
+Israel,Bnei Brak,5.0
+Israel,Netivot,4.0
+Israel,Acre,1.0
+Israel,Ashkelon,1.0
+Israel,Bat Yam,1.0
+Israel,Dimona,0.0
+Israel,Qiryat Gat,0.0
+Italy,Savogna d'Isonzo,502.0
+Italy,Rome,367.0
+Italy,Bologna,292.0
+Italy,Florence,286.0
+Italy,Brescia,110.0
+Italy,Gioia Tauro,72.0
+Italy,Milan,69.0
+Italy,San Benedetto Val di Sambro,60.0
+Italy,Naples,24.0
+Italy,Crema,12.0
+Italy,Brindisi,6.0
+Italy,Macerata,6.0
+Italy,Motta di Livenza,3.0
+Italy,San Biagio di Callalta,2.0
+Italy,Turin,2.0
+Italy,Acerra,1.0
+Italy,Assisi,1.0
+Italy,Burgos,1.0
+Italy,Genoa,1.0
+Italy,Treviso,1.0
+Italy,Venice,1.0
+Italy,Abetone,0.0
+Italy,Agrigento,0.0
+Italy,Ancona,0.0
+Italy,Cagliari,0.0
+Italy,Carbonia,0.0
+Italy,Castelfranco Emilia,0.0
+Italy,Chieti,0.0
+Italy,Fossano,0.0
+Italy,Gorizia,0.0
+Italy,Guidonia,0.0
+Italy,La Spezia,0.0
+Italy,Lecce,0.0
+Italy,Lucca,0.0
+Italy,Messina,0.0
+Italy,Modena,0.0
+Italy,Monselice,0.0
+Italy,Monza,0.0
+Italy,Novara,0.0
+Italy,Nuoro,0.0
+Italy,Olbia,0.0
+Italy,Oristano,0.0
+Italy,Ozzano dell'Emilia,0.0
+Italy,Palermo,0.0
+Italy,Perugia,0.0
+Italy,Pinerolo,0.0
+Italy,Pisa,0.0
+Italy,Porcia,0.0
+Italy,Pordenone,0.0
+Italy,Portogruaro,0.0
+Italy,San Giorgio di Nogaro,0.0
+Italy,San Teodoro,0.0
+Italy,Sesto San Giovanni,0.0
+Italy,Signa,0.0
+Italy,Sindia,0.0
+Italy,Trieste,0.0
+Italy,Verona,0.0
+Italy,Vicenza,0.0
+Italy,Viterbo,0.0
+Italy,Vittoria,0.0
+Jamaica,Kingston,0.0
+Japan,Tokyo,5405.0
+Japan,Matsumoto,508.0
+Japan,Sapporo,87.0
+Japan,Wakayama,64.0
+Japan,Okinawa,25.0
+Japan,Karuizawa,15.0
+Japan,Narita,7.0
+Japan,Susono,1.0
+Japan,Yokohama,1.0
+Japan,Asahikawa,0.0
+Japan,Fukuoka,0.0
+Japan,Furukawa,0.0
+Japan,Hiroshima,0.0
+Japan,Kisarazu,0.0
+Japan,Kobe,0.0
+Japan,Kyoto,0.0
+Japan,Nagoya,0.0
+Japan,Niigata,0.0
+Japan,Osaka,0.0
+Japan,Yokosuka,0.0
+Jordan,Amman,217.0
+Jordan,Zarqa,2.0
+Jordan,Aqaba,0.0
+Jordan,Ma'an,0.0
+Kazakhstan,Aktobe,47.0
+Kenya,Nairobi,5552.0
+Kenya,Mombasa,0.0
+Kuwait,Kuwait City,119.0
+Laos,Vientiane,13.0
+Laos,Savannakhet,0.0
+Lebanon,Beirut,2526.0
+Lebanon,Sidon,173.0
+Lebanon,Tripoli,95.0
+Lebanon,Tyre,94.0
+Lebanon,Jounieh,27.0
+Lebanon,Baalbek,2.0
+Lesotho,Maseru,2.0
+Liberia,Voinjama,0.0
+Liberia,Zwedru,0.0
+Libya,Tripoli,54.0
+Lithuania,Vilnius,1.0
+Lithuania,Kaunas,0.0
+Macedonia,Skopje,10.0
+Macedonia,Kumanovo,7.0
+Macedonia,Brvenica,6.0
+Macedonia,Tetovo,4.0
+Macedonia,Bogovinje,1.0
+Macedonia,Gostivar,1.0
+Macedonia,Lipkovo,1.0
+Macedonia,Bitola,0.0
+Macedonia,Prilep,0.0
+Macedonia,Struga,0.0
+Macedonia,Strumica,0.0
+Macedonia,Tearce,0.0
+Malaysia,Lahad Datu,32.0
+Maldives,Male,3.0
+Mali,Gao,192.0
+Mali,Timbuktu,17.0
+Mali,Kidal,12.0
+Mauritania,Zouerate,2.0
+Mauritania,Nouadhibou,0.0
+Mexico,Nuevo Laredo,4.0
+Mexico,Tepetixtla,4.0
+Mexico,Mitontic,1.0
+Mexico,Guadalajara,0.0
+Mexico,Jiutepec,0.0
+Mexico,Progreso,0.0
+Moldova,Tiraspol,30.0
+Moldova,Chisinau,5.0
+Montenegro,Podgorica,1.0
+Montenegro,Andrijevica,0.0
+Montenegro,Bijelo Polje,0.0
+Montenegro,Ulcinj,0.0
+Morocco,Meknes,2.0
+Myanmar,Mandalay,35.0
+Myanmar,Lashio,24.0
+Myanmar,Dawei,23.0
+Myanmar,Yangon,2.0
+Myanmar,Sittwe,1.0
+Myanmar,Myawadi,0.0
+Myanmar,Tachilek,0.0
+Namibia,Oshakati,97.0
+Nepal,Kathmandu,208.0
+Nepal,Pokhara,42.0
+Nepal,Biratnagar,10.0
+Nepal,Siraha,9.0
+Nepal,Nepalgunj,8.0
+Nepal,Mahendranagar,3.0
+Nepal,Dailekh,2.0
+Nepal,Janakpur,2.0
+Nepal,Inaruwa,0.0
+Nepal,Panauti,0.0
+Netherlands,The Hague,20.0
+Netherlands,Amsterdam,14.0
+Netherlands,Assen,8.0
+Netherlands,Glimmen,6.0
+Netherlands,Roermond,5.0
+Netherlands,Beilen,3.0
+Netherlands,Rotterdam,2.0
+Netherlands,Hilversum,1.0
+Netherlands,Amersfoort,0.0
+Netherlands,Brunssum,0.0
+Netherlands,Eindhoven,0.0
+Netherlands,Ravenstein,0.0
+New Zealand,Christchurch,100.0
+New Zealand,Auckland,9.0
+New Zealand,Wellington,0.0
+Nicaragua,Managua,12.0
+Nicaragua,Corinto,10.0
+Nigeria,Madagali,234.0
+Nigeria,Mubi,231.0
+Nigeria,Monguno,162.0
+Nigeria,Kajuru,141.0
+Nigeria,Dapchi,113.0
+Nigeria,Maiduguri,95.0
+Nigeria,Okene,22.0
+Nigeria,Lagos,4.0
+Nigeria,Abuja,2.0
+Nigeria,Asaba,1.0
+Nigeria,Buguma,0.0
+Nigeria,Owerri,0.0
+Nigeria,Warri,0.0
+Norway,Oslo,29.0
+Norway,Lillehammer,1.0
+Pakistan,Peshawar,2440.0
+Pakistan,Quetta,2245.0
+Pakistan,Karachi,1820.0
+Pakistan,Lahore,1226.0
+Pakistan,Islamabad,1054.0
+Pakistan,Mastung,434.0
+Pakistan,Rawalpindi,434.0
+Pakistan,Sehwan,391.0
+Pakistan,Dera Ismail Khan,301.0
+Pakistan,Sialkot,188.0
+Pakistan,Charsadda,184.0
+Pakistan,Multan,176.0
+Pakistan,Khuzdar,166.0
+Pakistan,Hyderabad,164.0
+Pakistan,Hangu,123.0
+Pakistan,Kohat,119.0
+Pakistan,Bhakkar,114.0
+Pakistan,Bannu,110.0
+Pakistan,Dera Ghazi Khan,88.0
+Pakistan,Gilgit,81.0
+Pakistan,Landi Kotal,65.0
+Pakistan,Mingora,57.0
+Pakistan,Mardan,52.0
+Pakistan,Chaman,45.0
+Pakistan,Bahawalpur,43.0
+Pakistan,Gujranwala,43.0
+Pakistan,Daska,40.0
+Pakistan,Faisalabad,36.0
+Pakistan,Kohlu,36.0
+Pakistan,Sakrand,33.0
+Pakistan,Loralai,31.0
+Pakistan,Wana,31.0
+Pakistan,Kamra,30.0
+Pakistan,Gwadar,22.0
+Pakistan,Turbat,19.0
+Pakistan,Gujrat,15.0
+Pakistan,Sukkur,15.0
+Pakistan,Mansehra,13.0
+Pakistan,Harnai,12.0
+Pakistan,Khairpur,12.0
+Pakistan,Jacobabad,9.0
+Pakistan,Murree,9.0
+Pakistan,Nowshera,9.0
+Pakistan,Jhang,6.0
+Pakistan,Kasur,6.0
+Pakistan,Kulachi,6.0
+Pakistan,Lakki,5.0
+Pakistan,Barkhan,4.0
+Pakistan,Wazirabad,4.0
+Pakistan,Sargodha,3.0
+Pakistan,Chitral,2.0
+Pakistan,Kotri,2.0
+Pakistan,Dera Bugti,1.0
+Pakistan,Kandhkot,1.0
+Pakistan,Okara,1.0
+Pakistan,Sheikhupura,1.0
+Pakistan,Khanpur,0.0
+Pakistan,Kharan,0.0
+Pakistan,Nasirabad,0.0
+Pakistan,Nushki,0.0
+Pakistan,Pasni,0.0
+Pakistan,Rajanpur,0.0
+Pakistan,Sibi,0.0
+Pakistan,Wah,0.0
+Pakistan,Zhob,0.0
+Paraguay,Pedro Juan Caballero,0.0
+Peru,Lima,420.0
+Peru,Satipo,17.0
+Peru,Andahuaylas,11.0
+Peru,Saposoa,3.0
+Peru,Huancayo,2.0
+Peru,Tarapoto,1.0
+Peru,Chiclayo,0.0
+Peru,San Isidro,0.0
+Peru,Tarma,0.0
+Peru,Trujillo,0.0
+Peru,Uchiza,0.0
+Philippines,Zamboanga,674.0
+Philippines,Manila,652.0
+Philippines,Davao,476.0
+Philippines,Jolo,308.0
+Philippines,Makati,167.0
+Philippines,Lagangilang,130.0
+Philippines,Parang,112.0
+Philippines,Kidapawan,74.0
+Philippines,Koronadal,71.0
+Philippines,Makilala,67.0
+Philippines,Lamitan,61.0
+Philippines,Kabacan,56.0
+Philippines,Tacurong,51.0
+Philippines,Isulan,38.0
+Philippines,Hilongos,33.0
+Philippines,Butig,30.0
+Philippines,Indanan,28.0
+Philippines,Pagadian,28.0
+Philippines,Digos,22.0
+Philippines,Cotabato City,19.0
+Philippines,Sumisip,16.0
+Philippines,Calaca,13.0
+Philippines,Datu Piang,13.0
+Philippines,Libertad,11.0
+Philippines,Midsayap,10.0
+Philippines,Naga,10.0
+Philippines,Sagay,10.0
+Philippines,Surigao,9.0
+Philippines,Kumalarang,8.0
+Philippines,Bangued,7.0
+Philippines,Shariff Aguak,7.0
+Philippines,Luzon,6.0
+Philippines,Taytay,6.0
+Philippines,Bulalacao,4.0
+Philippines,Tiaong,4.0
+Philippines,Columbio,3.0
+Philippines,Goa,3.0
+Philippines,Nabunturan,3.0
+Philippines,Santa Rosa,3.0
+Philippines,Angeles City,2.0
+Philippines,Antipolo,2.0
+Philippines,Balanga,2.0
+Philippines,Compostela,2.0
+Philippines,Daraga,2.0
+Philippines,Escalante,2.0
+Philippines,Mapandan,2.0
+Philippines,Panabo,2.0
+Philippines,Patikul,2.0
+Philippines,Puerto Princesa,2.0
+Philippines,Quezon City,2.0
+Philippines,Ragay,2.0
+Philippines,Tabaco,2.0
+Philippines,Baay,1.0
+Philippines,Catbalogan,1.0
+Philippines,Floridablanca,1.0
+Philippines,Hinabangan,1.0
+Philippines,Lamitan City,1.0
+Philippines,Loreto,1.0
+Philippines,Lucena,1.0
+Philippines,Malaybalay,1.0
+Philippines,Muntinlupa,1.0
+Philippines,Olongapo,1.0
+Philippines,Ormoc,1.0
+Philippines,Panay,1.0
+Philippines,Pata,1.0
+Philippines,Salay,1.0
+Philippines,Santa Rita,1.0
+Philippines,South Ubian,1.0
+Philippines,Angat,0.0
+Philippines,Bongao,0.0
+Philippines,Buldon,0.0
+Philippines,Cagayan de Oro,0.0
+Philippines,Claver,0.0
+Philippines,Danao,0.0
+Philippines,Dimataling,0.0
+Philippines,Labangan,0.0
+Philippines,Luna,0.0
+Philippines,Maimbung,0.0
+Philippines,Maluso,0.0
+Philippines,Marawi,0.0
+Philippines,Monkayo,0.0
+Philippines,Palimbang,0.0
+Philippines,Pandacan,0.0
+Philippines,Pasig,0.0
+Philippines,Pikit,0.0
+Philippines,San Juan,0.0
+Philippines,Siasi,0.0
+Philippines,Surallah,0.0
+Philippines,Tagum,0.0
+Philippines,Trento,0.0
+Philippines,Tuba,0.0
+Philippines,Tulunan,0.0
+Poland,Jenin,10.0
+Poland,Warsaw,4.0
+Poland,Kraków,3.0
+Poland,Piaseczno,1.0
+Portugal,Lisbon,20.0
+Portugal,Albufeira,1.0
+Russia,Moscow,1911.0
+Russia,Beslan,1058.0
+Russia,Vladikavkaz,421.0
+Russia,Makhachkala,409.0
+Russia,Buinsk,236.0
+Russia,Yessentuki,211.0
+Russia,Mineralnye Vody,174.0
+Russia,Znamenskoye,162.0
+Russia,Saint Petersburg,148.0
+Russia,Volgodonsk,132.0
+Russia,Mozdok,127.0
+Russia,Kislovodsk,98.0
+Russia,Samara,84.0
+Russia,Gudermes,69.0
+Russia,Khasavyurt,69.0
+Russia,Alkhan-Yurt,51.0
+Russia,Rostov,46.0
+Russia,Magas,45.0
+Russia,Sunzha,38.0
+Russia,Pyatigorsk,37.0
+Russia,Malaya Vishera,30.0
+Russia,Kizlyar,23.0
+Russia,Khabarovsk,22.0
+Russia,Argun,18.0
+Russia,Assinovskaya,13.0
+Russia,Sadovyy,12.0
+Russia,Shali,12.0
+Russia,Alleroy,10.0
+Russia,Karabulak,10.0
+Russia,Mesker-Yurt,9.0
+Russia,Voronezh,9.0
+Russia,Cherkessk,8.0
+Russia,Kalinovskaya,8.0
+Russia,Vladivostok,8.0
+Russia,Sochi,7.0
+Russia,Astrakhan,6.0
+Russia,Avtury,6.0
+Russia,Gekhi,5.0
+Russia,Vedeno,5.0
+Russia,Chermen,4.0
+Russia,Germenchuk,4.0
+Russia,Karachayevsk,4.0
+Russia,Malgobek,4.0
+Russia,Samashki,4.0
+Russia,Ufa,4.0
+Russia,Ussuriysk,4.0
+Russia,Achikulak,3.0
+Russia,Buynaksk,3.0
+Russia,Gimry,3.0
+Russia,Kizilyurt,3.0
+Russia,Mayskiy,3.0
+Russia,Roshni-Chu,3.0
+Russia,Saratov,3.0
+Russia,Chita,2.0
+Russia,Krasnoyarsk,2.0
+Russia,Pokrovskoye,2.0
+Russia,Rostov-na-Donu,2.0
+Russia,Slavyanka,2.0
+Russia,Alkhan-Kala,1.0
+Russia,Barsuki,1.0
+Russia,Gubden,1.0
+Russia,Kafyr-Kumukh,1.0
+Russia,Kulary,1.0
+Russia,Nefteyugansk,1.0
+Russia,Nesterovskaya,1.0
+Russia,Volgograd,1.0
+Russia,Yam,1.0
+Russia,Altukhovo,0.0
+Russia,Angarsk,0.0
+Russia,Armavir,0.0
+Russia,Dachnoye,0.0
+Russia,Domodedovo,0.0
+Russia,Ekazhevo,0.0
+Russia,Kantyshevo,0.0
+Russia,Kazan,0.0
+Russia,Kemerovo,0.0
+Russia,Khankala,0.0
+Russia,Krasnodar,0.0
+Russia,Kuli,0.0
+Russia,Monino,0.0
+Russia,Moskovskiy,0.0
+Russia,Murmansk,0.0
+Russia,Naushki,0.0
+Russia,Neftekumsk,0.0
+Russia,Norilsk,0.0
+Russia,Sagopshi,0.0
+Russia,Troitskoye,0.0
+Russia,Tula,0.0
+Russia,Tver,0.0
+Russia,Uchkent,0.0
+Russia,Ulyanovsk,0.0
+Russia,Verkhnyaya Salda,0.0
+Russia,Voznesenskaya,0.0
+Russia,Yakhroma,0.0
+Russia,Yekaterinburg,0.0
+Rwanda,Kigali,23.0
+Rwanda,Butare,7.0
+Saudi Arabia,Mecca,595.0
+Saudi Arabia,Khobar,571.0
+Saudi Arabia,Dhahran,521.0
+Saudi Arabia,Riyadh,426.0
+Saudi Arabia,Arar,63.0
+Saudi Arabia,Jeddah,38.0
+Saudi Arabia,Abha,26.0
+Saudi Arabia,Yanbu,25.0
+Saudi Arabia,Buraydah,5.0
+Saudi Arabia,Medina,4.0
+Saudi Arabia,Dammam,0.0
+Serbia,Prokuplje,18.0
+Serbia,Jagodina,1.0
+Serbia,Leskovac,0.0
+Serbia,Novi Pazar,0.0
+Serbia,Rajince,0.0
+Serbia,Subotica,0.0
+Serbia,Valjevo,0.0
+Sierra Leone,Segbwema,8.0
+Sierra Leone,Freetown,0.0
+Sierra Leone,Kambia,0.0
+Slovakia,Bratislava,2.0
+Slovenia,Ljubljana,0.0
+Somalia,Mogadishu,3017.0
+Somalia,Baidoa,122.0
+Somalia,Kismayo,82.0
+Somalia,Afgooye,29.0
+Somalia,Beledweyne,26.0
+Somalia,Marka,20.0
+Somalia,Baardheere,18.0
+Somalia,Gaalkacyo,11.0
+Somalia,Xuddur,7.0
+South Africa,Pretoria,268.0
+South Africa,Cape Town,212.0
+South Africa,Johannesburg,137.0
+South Africa,Durban,36.0
+South Africa,Bethlehem,28.0
+South Africa,Port Elizabeth,4.0
+South Africa,Bronkhorstspruit,2.0
+South Africa,Bloemfontein,0.0
+South Africa,East London,0.0
+South Africa,Soweto,0.0
+Spain,Madrid,888.0
+Spain,Barcelona,385.0
+Spain,Zaragoza,143.0
+Spain,Burgos,65.0
+Spain,Vic,53.0
+Spain,Pamplona,38.0
+Spain,Mutxamel,33.0
+Spain,Bilbao,30.0
+Spain,Santa Pola,27.0
+Spain,Getxo,19.0
+Spain,Sabadell,16.0
+Spain,Alonsotegi,14.0
+Spain,Zarautz,14.0
+Spain,Salou,13.0
+Spain,Ondarroa,12.0
+Spain,Alicante,8.0
+Spain,Benidorm,7.0
+Spain,Orio,6.0
+Spain,Errenteria,5.0
+Spain,Andoain,4.0
+Spain,Marbella,4.0
+Spain,Markina-Xemein,4.0
+Spain,Portugalete,4.0
+Spain,Roses,4.0
+Spain,Arrigorriaga,3.0
+Spain,Hernani,3.0
+Spain,Beasain,2.0
+Spain,Durango,2.0
+Spain,Noja,2.0
+Spain,Sallent,2.0
+Spain,Santillana,2.0
+Spain,Azpeitia,1.0
+Spain,Baiona,1.0
+Spain,Basauri,1.0
+Spain,Blancas,1.0
+Spain,Ciudad Real,1.0
+Spain,Denia,1.0
+Spain,Eibar,1.0
+Spain,Granada,1.0
+Spain,Lasarte,1.0
+Spain,Ordizia,1.0
+Spain,Sestao,1.0
+Spain,Tolosa,1.0
+Spain,Zumaia,1.0
+Spain,Zumarraga,1.0
+Spain,Algorta,0.0
+Spain,Amorebieta,0.0
+Spain,Amurrio,0.0
+Spain,Arenas,0.0
+Spain,Astigarraga,0.0
+Spain,Azagra,0.0
+Spain,Azkoitia,0.0
+Spain,Bakio,0.0
+Spain,Berango,0.0
+Spain,Bermeo,0.0
+Spain,Berriozar,0.0
+Spain,Berriz,0.0
+Spain,Briviesca,0.0
+Spain,Cadiz,0.0
+Spain,Calahorra,0.0
+Spain,Derio,0.0
+Spain,Echarri-Aranaz,0.0
+Spain,Elgoibar,0.0
+Spain,Elorrio,0.0
+Spain,Erandio,0.0
+Spain,Figueres,0.0
+Spain,Fuenmayor,0.0
+Spain,Galdakao,0.0
+Spain,Gandia,0.0
+Spain,Granollers,0.0
+Spain,Idiazabal,0.0
+Spain,Irura,0.0
+Spain,La Carolina,0.0
+Spain,La Fuliola,0.0
+Spain,La Roda,0.0
+Spain,Laredo,0.0
+Spain,Leioa,0.0
+Spain,Lekeitio,0.0
+Spain,Lezo,0.0
+Spain,Lugo,0.0
+Spain,Mendaro,0.0
+Spain,Miranda de Arga,0.0
+Spain,Molins de Rei,0.0
+Spain,Mungia,0.0
+Spain,Murgia,0.0
+Spain,Palma,0.0
+Spain,Poio,0.0
+Spain,San Vicente de la Barquera,0.0
+Spain,Sant Andreu,0.0
+Spain,Santander,0.0
+Spain,Santiago de Compostela,0.0
+Spain,Santurtzi,0.0
+Spain,Tafalla,0.0
+Spain,Tarragona,0.0
+Spain,Torremolinos,0.0
+Spain,Torrevieja,0.0
+Spain,Tudela,0.0
+Spain,Urnieta,0.0
+Spain,Vigo,0.0
+Spain,Villabona,0.0
+Spain,Villajoyosa,0.0
+Spain,Villaseca de la Sagra,0.0
+Spain,Zaldibar,0.0
+Spain,Zalla,0.0
+Sri Lanka,Colombo,3520.0
+Sri Lanka,Anuradhapura,341.0
+Sri Lanka,Jaffna,235.0
+Sri Lanka,Batticaloa,234.0
+Sri Lanka,Vavuniya,171.0
+Sri Lanka,Ratmalana,127.0
+Sri Lanka,Trincomalee,113.0
+Sri Lanka,Moratuwa,102.0
+Sri Lanka,Dambulla,70.0
+Sri Lanka,Gampaha,69.0
+Sri Lanka,Kandy,58.0
+Sri Lanka,Ambalangoda,55.0
+Sri Lanka,Monaragala,52.0
+Sri Lanka,Ampara,48.0
+Sri Lanka,Kurunegala,20.0
+Sri Lanka,Kotte,18.0
+Sri Lanka,Kalmunai,16.0
+Sri Lanka,Point Pedro,10.0
+Sri Lanka,Polonnaruwa,2.0
+Sri Lanka,Chilaw,0.0
+Sri Lanka,Hatton,0.0
+Sri Lanka,Kalutara,0.0
+Sri Lanka,Kuliyapitiya,0.0
+Sri Lanka,Puttalam,0.0
+Suriname,Paramaribo,1.0
+Swaziland,Mbabane,14.0
+Swaziland,Manzini,2.0
+Sweden,Stockholm,56.0
+Sweden,Nacka,2.0
+Sweden,Sundbyberg,0.0
+Switzerland,Lausanne,20.0
+Switzerland,Genève,18.0
+Switzerland,Zürich,16.0
+Switzerland,Bern,9.0
+Switzerland,Basel,3.0
+Switzerland,Chiasso,0.0
+Switzerland,Davos,0.0
+Syria,Damascus,1967.0
+Syria,Aleppo,731.0
+Syria,Deir ez-Zor,300.0
+Syria,Homs,157.0
+Syria,Idlib,100.0
+Syria,Manbij,22.0
+Taiwan,Taipei,25.0
+Taiwan,Kaohsiung,5.0
+Tajikistan,Danghara,6.0
+Tajikistan,Tursunzoda,5.0
+Tanzania,Dar es Salaam,88.0
+Tanzania,Zanzibar,0.0
+Thailand,Bangkok,264.0
+Thailand,Hat Yai,63.0
+Thailand,Betong,53.0
+Thailand,Hua Hin,29.0
+Thailand,Yaring,11.0
+Thailand,Tak Bai,10.0
+Thailand,Sai Buri,9.0
+Thailand,Waeng,6.0
+Thailand,Mae Sot,4.0
+Thailand,Nong Chik,1.0
+Thailand,Pong,1.0
+Tunisia,Tunis,6.0
+Turkey,Istanbul,2531.0
+Turkey,Ankara,394.0
+Turkey,Gaziantep,223.0
+Turkey,Sivas,90.0
+Turkey,Kayseri,69.0
+Turkey,Van,54.0
+Turkey,Antalya,52.0
+Turkey,Adana,43.0
+Turkey,Marmaris,43.0
+Turkey,Midyat,36.0
+Turkey,Mersin,31.0
+Turkey,Lice,28.0
+Turkey,Gebze,20.0
+Turkey,Esenler,17.0
+Turkey,Siirt,16.0
+Turkey,Bursa,14.0
+Turkey,Eruh,13.0
+Turkey,Pervari,10.0
+Turkey,Trabzon,9.0
+Turkey,Batman,8.0
+Turkey,Ordu,7.0
+Turkey,Bitlis,6.0
+Turkey,Malazgirt,6.0
+Turkey,Niksar,6.0
+Turkey,Of,5.0
+Turkey,Silopi,5.0
+Turkey,Tokat,5.0
+Turkey,Turhal,4.0
+Turkey,Kulp,3.0
+Turkey,Nusaybin,3.0
+Turkey,Silvan,3.0
+Turkey,Tunceli,3.0
+Turkey,Uludere,3.0
+Turkey,Umraniye,3.0
+Turkey,Diyadin,2.0
+Turkey,Esenyurt,2.0
+Turkey,Hozat,2.0
+Turkey,Kilis,2.0
+Turkey,Patnos,2.0
+Turkey,Bodrum,1.0
+Turkey,Hassa,1.0
+Turkey,Siverek,1.0
+Turkey,Aksaray,0.0
+Turkey,Bayburt,0.0
+Turkey,Buca,0.0
+Turkey,Cizre,0.0
+Turkey,Derince,0.0
+Turkey,Devrek,0.0
+Turkey,Edremit,0.0
+Turkey,Erzin,0.0
+Turkey,Erzincan,0.0
+Turkey,Erzurum,0.0
+Turkey,Espiye,0.0
+Turkey,Fethiye,0.0
+Turkey,Kartal,0.0
+Turkey,Kelkit,0.0
+Turkey,Malatya,0.0
+Turkey,Maltepe,0.0
+Turkey,Mardin,0.0
+Turkey,Marmara,0.0
+Turkey,Mazgirt,0.0
+Turkey,Nazimiye,0.0
+Turkey,Payas,0.0
+Turkey,Pendik,0.0
+Turkey,Refahiye,0.0
+Turkey,Seyhan,0.0
+Turkey,Tarsus,0.0
+Turkey,Yenimahalle,0.0
+Uganda,Lira,424.0
+Uganda,Kampala,172.0
+Uganda,Gulu,99.0
+Uganda,Masaka,36.0
+Uganda,Adjumani,35.0
+Uganda,Kitgum,32.0
+Uganda,Jinja,14.0
+Uganda,Mbarara,5.0
+Uganda,Entebbe,4.0
+Ukraine,Brovary,8.0
+Ukraine,Yevpatoriya,3.0
+Ukraine,Odessa,2.0
+Ukraine,Yalta,2.0
+Ukraine,Donetsk,0.0
+Ukraine,Kharkiv,0.0
+Ukraine,Lutsk,0.0
+Ukraine,Lviv,0.0
+Ukraine,Simferopol,0.0
+United Arab Emirates,Dubai,4.0
+United Kingdom,London,2183.0
+United Kingdom,Belfast,898.0
+United Kingdom,Lockerbie,275.0
+United Kingdom,Newry,111.0
+United Kingdom,Enniskillen,92.0
+United Kingdom,Guildford,70.0
+United Kingdom,Omagh,53.0
+United Kingdom,Coleraine,42.0
+United Kingdom,Brighton,36.0
+United Kingdom,Caterham,33.0
+United Kingdom,Gilford,33.0
+United Kingdom,Warrenpoint,26.0
+United Kingdom,Aldershot,25.0
+United Kingdom,Dungannon,22.0
+United Kingdom,Keady,22.0
+United Kingdom,Lisburn,19.0
+United Kingdom,Armagh,16.0
+United Kingdom,Moira,7.0
+United Kingdom,Castlerock,5.0
+United Kingdom,Derry,5.0
+United Kingdom,Craigavon,4.0
+United Kingdom,Draperstown,3.0
+United Kingdom,Portadown,3.0
+United Kingdom,Swansea,3.0
+United Kingdom,Ballycastle,2.0
+United Kingdom,Crossmaglen,2.0
+United Kingdom,Magherafelt,2.0
+United Kingdom,Newcastle,2.0
+United Kingdom,Abingdon,1.0
+United Kingdom,Ballymena,1.0
+United Kingdom,Carrickfergus,1.0
+United Kingdom,Castlederg,1.0
+United Kingdom,Castlewellan,1.0
+United Kingdom,Crumlin,1.0
+United Kingdom,Derby,1.0
+United Kingdom,Essex,1.0
+United Kingdom,Exeter,1.0
+United Kingdom,Kirkcaldy,1.0
+United Kingdom,Larne,1.0
+United Kingdom,Newtownstewart,1.0
+United Kingdom,Northampton,1.0
+United Kingdom,Pevensey,1.0
+United Kingdom,Strabane,1.0
+United Kingdom,Ahoghill,0.0
+United Kingdom,Annalong,0.0
+United Kingdom,Ardglass,0.0
+United Kingdom,Ballynahinch,0.0
+United Kingdom,Bangor,0.0
+United Kingdom,Bootle,0.0
+United Kingdom,Carnlough,0.0
+United Kingdom,Castledawson,0.0
+United Kingdom,Coalisland,0.0
+United Kingdom,Cookstown,0.0
+United Kingdom,Cushendall,0.0
+United Kingdom,Dunloy,0.0
+United Kingdom,Garvagh,0.0
+United Kingdom,Hillsborough,0.0
+United Kingdom,Hove,0.0
+United Kingdom,Irvinestown,0.0
+United Kingdom,Kilkeel,0.0
+United Kingdom,Killyleagh,0.0
+United Kingdom,Kilrea,0.0
+United Kingdom,Maghera,0.0
+United Kingdom,Moneymore,0.0
+United Kingdom,Newtownabbey,0.0
+United Kingdom,Newtownards,0.0
+United Kingdom,Nottingham,0.0
+United Kingdom,Oxford,0.0
+United Kingdom,Portrush,0.0
+United Kingdom,Portstewart,0.0
+United Kingdom,Randalstown,0.0
+United Kingdom,Sion Mills,0.0
+United Kingdom,Tipton,0.0
+United Kingdom,Whitehead,0.0
+United Kingdom,Wolverhampton,0.0
+United States,New York City,6354.0
+United States,The Dalles,751.0
+United States,Oklahoma City,668.0
+United States,Hebron,399.0
+United States,Atlanta,117.0
+United States,Orlando,102.0
+United States,El Paso,46.0
+United States,Columbia,35.0
+United States,York,32.0
+United States,Los Angeles,21.0
+United States,Charlottesville,20.0
+United States,Chicago,19.0
+United States,New Orleans,19.0
+United States,Pittsburgh,17.0
+United States,Columbus,15.0
+United States,Pensacola,11.0
+United States,San Francisco,11.0
+United States,Austin,8.0
+United States,Jersey City,7.0
+United States,Alexandria,6.0
+United States,Boca Raton,6.0
+United States,Boston,6.0
+United States,Sandy Springs,6.0
+United States,Seattle,6.0
+United States,Fort Lauderdale,5.0
+United States,Langley,5.0
+United States,Miami,5.0
+United States,Madison,4.0
+United States,Poway,4.0
+United States,Detroit,3.0
+United States,Kansas City,3.0
+United States,Nanuet,3.0
+United States,Baltimore,2.0
+United States,Berkeley,2.0
+United States,Birmingham,2.0
+United States,Little Rock,2.0
+United States,Santa Barbara,2.0
+United States,Speedway,2.0
+United States,Bethesda,1.0
+United States,Brooklyn,1.0
+United States,Dallas,1.0
+United States,Dearborn,1.0
+United States,Evanston,1.0
+United States,Fargo,1.0
+United States,Flint,1.0
+United States,Fresno,1.0
+United States,Garden Grove,1.0
+United States,Glendale,1.0
+United States,Ogden,1.0
+United States,Orange,1.0
+United States,Oxford,1.0
+United States,Philadelphia,1.0
+United States,Santa Cruz,1.0
+United States,Tampa,1.0
+United States,Torrance,1.0
+United States,Union,1.0
+United States,Wichita,1.0
+United States,Albany,0.0
+United States,Albertville,0.0
+United States,Albuquerque,0.0
+United States,Anaheim,0.0
+United States,Astoria,0.0
+United States,Auburn,0.0
+United States,Bellingham,0.0
+United States,Bloomington,0.0
+United States,Cambridge,0.0
+United States,Chico,0.0
+United States,Clatskanie,0.0
+United States,Colleyville,0.0
+United States,Coral Gables,0.0
+United States,De Kalb,0.0
+United States,East Lansing,0.0
+United States,Elizabeth,0.0
+United States,Ellettsville,0.0
+United States,Emeryville,0.0
+United States,Erie,0.0
+United States,Escondido,0.0
+United States,Estacada,0.0
+United States,Eugene,0.0
+United States,Galveston,0.0
+United States,Girard,0.0
+United States,Glen Cove,0.0
+United States,Grangeville,0.0
+United States,Greenville,0.0
+United States,Hagerstown,0.0
+United States,Hialeah,0.0
+United States,Hoboken,0.0
+United States,Hollywood,0.0
+United States,Houghton,0.0
+United States,Houston,0.0
+United States,Irvine,0.0
+United States,Jacksonville,0.0
+United States,Jericho,0.0
+United States,Key Biscayne,0.0
+United States,Key West,0.0
+United States,Laguna Woods,0.0
+United States,Leavenworth,0.0
+United States,Lincoln,0.0
+United States,Medford,0.0
+United States,Middle Island,0.0
+United States,Miller Place,0.0
+United States,Minneapolis,0.0
+United States,Monmouth,0.0
+United States,Montgomery,0.0
+United States,Mount Sinai,0.0
+United States,Niwot,0.0
+United States,North Vernon,0.0
+United States,Oakland,0.0
+United States,Opelousas,0.0
+United States,Pacific,0.0
+United States,Paul,0.0
+United States,Portland,0.0
+United States,Provo,0.0
+United States,Queens,0.0
+United States,Redmond,0.0
+United States,Richmond,0.0
+United States,Rockville,0.0
+United States,Roseville,0.0
+United States,Sacramento,0.0
+United States,Sammamish,0.0
+United States,San Diego,0.0
+United States,Santa Monica,0.0
+United States,Scottsdale,0.0
+United States,Snohomish,0.0
+United States,Sutter,0.0
+United States,Tacoma,0.0
+United States,Tucson,0.0
+United States,Umatilla,0.0
+United States,University,0.0
+United States,Vail,0.0
+United States,Viroqua,0.0
+United States,Visalia,0.0
+United States,West,0.0
+United States,West Covina,0.0
+United States,West Jordan,0.0
+Uruguay,Montevideo,9.0
+Uzbekistan,Bekobod,0.0
+Venezuela,Caracas,80.0
+Venezuela,La Victoria,3.0
+Venezuela,Coro,1.0
+Venezuela,Cabudare,0.0
+Venezuela,Los Teques,0.0
+Venezuela,Maracaibo,0.0
+Venezuela,Puerto La Cruz,0.0
+Venezuela,Valencia,0.0
+Vietnam,Ho Chi Minh City,0.0
+Yemen,Aden,698.0
+Yemen,Mukalla,187.0
+Yemen,Sanaa,142.0
+Yemen,Ma'rib,4.0
+Yemen,Medghal,2.0
+Yemen,Ibb,0.0
+Yemen,Khamir,0.0
+Yemen,Marib,0.0
+Yemen,Mudiyah,0.0
+Zambia,Lusaka,11.0
+Zambia,Livingstone,7.0
+Zimbabwe,Bulawayo,54.0
+Zimbabwe,Harare,23.0
+Zimbabwe,Kariba,1.0
+Zimbabwe,Mutare,0.0
+Zimbabwe,Penhalonga,0.0
